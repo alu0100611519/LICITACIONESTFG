@@ -1,0 +1,14 @@
+SQLAlchemy
+fastApi
+transformers
+datasets 
+torch 
+accelerate
+psycopg2
+sentencepiece
+uvicorn
+python-dotenv 
+lxml
+PyPDF2
+
+google.generativeai

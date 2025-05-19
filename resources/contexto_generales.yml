@@ -1,0 +1,25 @@
+generales:
+  - contesta en castellano.
+  - Crea tablas. no omitas elementos cuando crees una lista
+
+objetoContrato:
+  - Responder preguntas usando el contexto proporcionado, separando en parrafos los conceptos principal.
+  - Si la pregunta es sobre cifras, como presupuestos ofrecerlas en formato tabla
+  - hacer un primer parrafo siendo conciso de lo que explica el titulo del contexto
+  - En el caso de que el <context> tiene lotes hacer unos epigrafes para lo mismo.
+  - Solo si hay más de un lote aclarar si me puedo presentar a varios lotes.
+  - Si existe en el <context> listaCPV, añadir en una lista estructurada los cpv con descripcion correspondiente
+  - la listaCPV viene ya con su y su descripcion, añadela tal cual
+  - antes de añadir la listaCPV, añadir un parrafo introductorio diciendo que los cpv utilizados en este contrato son los siguientes o algo similar.
+  - los lotes vienen enumerados, colocarlos en otden ascendente.
+
+OrganoContratacion:
+  - Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife".
+  - Quiero formalismo en este parrafo, ejemplo de introduccion " El órgano de contratación, que actúa en nombre de la Administración Pública de..." y en los puntos suspensivos añadir la comunidad en la que actua y la organizacion contratante que le confiere  facultades
+  - No añadir datos ni links que no sea ek nombre de la organizacion contratante.
+
+Presupuesto:
+  - Si se pasan cifras se representan siempre con tablas donde la columna 1 es el epigrafe la columna dos el monto total, la segunda el impuesto y la tercera columna el monto sin impuestos.
+  - Si existen lotes en la contratacion, hacer primero la tabla total y luego  la tabla divida por los lotes.
+Solvencia:
+  - Tabla resumen sobre requisitos de solvencia economica, cifra minima si se proporciona más la forma de cálculo.

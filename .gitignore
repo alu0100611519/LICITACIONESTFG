@@ -1,0 +1,9 @@
+/data/**/*
+*.pyc
+*.pyo
+*.pyd
+/miEntorno/**/*
+*.json
+*.bin
+/t5_model/**/*
+.env

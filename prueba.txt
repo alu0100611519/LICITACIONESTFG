@@ -1,0 +1,1106 @@
+#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+USER: Informacion: Responder preguntas usando el contexto proporcionado, separando en parrafos los conceptos principal. Si la pregunta es sobre cifras, como presupuestos ofrecerlas en formato tabla hacer un primer parrafo siendo conciso de lo que explica el titulo del contexto En el caso de que el <context> tiene lotes hacer unos epigrafes para lo mismo. Solo si hay más de un lote aclarar si me puedo presentar a varios lotes. Si existe en el <context> listaCPV, añadir en una lista estructurada los cpv con descripcion correspondiente la listaCPV viene ya con su y su descripcion, añadela tal cual antes de añadir la listaCPV, añadir un parrafo introductorio diciendo que los cpv utilizados en este contrato son los siguientes o algo similar. los lotes vienen enumerados, colocarlos en otden ascendente.
+<context>titulo: Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral + listaCPV: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+ Lotes:lote 1: -nombre:Vestuario Monocolor (verde, granate, azul y negro) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 10: -nombre:Cinturones -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 11: -nombre:Ropa térmica -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 12: -nombre:Tubulares y manguitos textil -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 13: -nombre:Gorras/Gorros -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 14: -nombre:Gorras Especiales -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 15: -nombre:Chaqueta reversible -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 16: -nombre:Vestuario diverso -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 17: -nombre:Vestuario ordenanzas -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 2: -nombre:Vestuario Visibilidad Realzada (V.R.) (verde) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 3: -nombre:Vestuario Alta Visibilidad (A.V.) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 4: -nombre:Pantalones de trabajo -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 5: -nombre:Vestuario Incendios -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 6: -nombre:Vestuario Incendios Especial -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 7: -nombre:Vestuario Oficios (Mecánicos, electricistas, cerrajeros) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 8: -nombre:Vestuario médico/laboratorio -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 9: -nombre:Calcetines -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+<context>
+Pregunta:Quiero que me redactes la seccion del objeto del contrato
+
+
+RESULT:
+ I
+DISPOSICIONES GENERALES
+
+1 OBJETO DEL CONTRATO
+El objeto del contrato es el suministro de vestuario y complementos para el personal de las distintas áreas del CIT. Se busca que la fabricación de estos elementos incorpore innovaciones tecnológicas que permitan el uso de materiales reciclados o su reciclaje al final de su vida útil, promoviendo la economía circular. También se valora la contratación de personal con dificultades de acceso al mercado laboral.
+
+Los CPV utilizados en este contrato son los siguientes:
+
+*   18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+El contrato se divide en los siguientes lotes:
+
+**Lote 1: Vestuario Monocolor (verde, granate, azul y negro)**
+
+Este lote incluye el suministro de vestuario monocolor en verde, granate, azul y negro.
+
+**Lote 2: Vestuario Visibilidad Realzada (V.R.) (verde)**
+
+Este lote se refiere al suministro de vestuario de visibilidad realzada en color verde.
+
+**Lote 3: Vestuario Alta Visibilidad (A.V.)**
+
+Este lote comprende el suministro de vestuario de alta visibilidad.
+
+**Lote 4: Pantalones de trabajo**
+
+Este lote se centra en el suministro de pantalones de trabajo.
+
+**Lote 5: Vestuario Incendios**
+
+Este lote incluye el suministro de vestuario específico para incendios.
+
+**Lote 6: Vestuario Incendios Especial**
+
+Este lote se refiere al suministro de vestuario especial para incendios.
+
+**Lote 7: Vestuario Oficios (Mecánicos, electricistas, cerrajeros)**
+
+Este lote comprende el suministro de vestuario para oficios como mecánicos, electricistas y cerrajeros.
+
+**Lote 8: Vestuario médico/laboratorio**
+
+Este lote se centra en el suministro de vestuario para uso médico y de laboratorio.
+
+**Lote 9: Calcetines**
+
+Este lote incluye el suministro de calcetines.
+
+**Lote 10: Cinturones**
+
+Este lote se refiere al suministro de cinturones.
+
+**Lote 11: Ropa térmica**
+
+Este lote comprende el suministro de ropa térmica.
+
+**Lote 12: Tubulares y manguitos textil**
+
+Este lote se centra en el suministro de tubulares y manguitos textiles.
+
+**Lote 13: Gorras/Gorros**
+
+Este lote incluye el suministro de gorras y gorros.
+
+**Lote 14: Gorras Especiales**
+
+Este lote se refiere al suministro de gorras especiales.
+
+**Lote 15: Chaqueta reversible**
+
+Este lote comprende el suministro de chaquetas reversibles.
+
+**Lote 16: Vestuario diverso**
+
+Este lote se centra en el suministro de vestuario diverso.
+
+**Lote 17: Vestuario ordenanzas**
+
+Este lote incluye el suministro de vestuario para ordenanzas.
+
+No se especifica en el contexto si se puede presentar ofertas a varios lotes.
+--------------------------------------------------------------------------
+USER: Informacion: Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife".
+<context>organizacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife<context>
+Pregunta:quiero que redactes el primer parrafo de la organizacion contratante 
+
+
+RESULT:
+ 2.- ÓRGANO DE CONTRATACIÓN (arts. 61, 63 y 190  LCSP)
+Excmo. Cabildo Insular de Tenerife, a través de su Consejo de Gobierno Insular, es la entidad contratante responsable de la gestión de este procedimiento.
+
+2.2.- El mencionado órgano tiene facultad para adjudicar el contrato y ostenta las prerrogativas de interpretarlo, resolver las dudas que ofrezca su cumplimiento, modificarlo por razones de interés público, declarar la responsabilidad imputable al contratista a raíz de la ejecución del mismo, suspender dicha  ejecución, acordar la  resolución del contrato y determinar los efectos de ésta, con sujeción a la normativa aplicable.
+Igualmente, el órgano de contratación ostenta las facultades de inspección de las actividades desarrolladas por la persona contratista durante la ejecución del contrato, de conformidad con lo establecido en el segundo párrafo del artículo 190 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Publico (LCSP).2.3.- De conformidad con lo establecido en el artículo 63 de la LCSP, el órgano de contratación dará la información relativa a la presente contratación en el  Perfil del Contratante del Gobierno de Canarias, alojado  en la Plataforma de Contratación del Sector Público  (https://contrataciondelestado.es/wps/portal/plataforma)--------------------------------------------------------------------------
+USER: template
+
+RESULT:
+ 3.- RÉGIMEN JURÍDICO Y JURISDICCIÓN
+3.1.- La contratación a realizar se califica como contrato de suministro de carácter administrativo, de conformidad con lo establecido en los artículos 16 y 25 de la LCSP, quedando sometida a dicha ley, a las normas reglamentarias que la desarrollen, y a las cláusulas contenidas en el presente pliego de cláusulas administrativas particulares y en el de prescripciones técnicas.
+Asimismo, serán de aplicación las demás disposiciones estatales que regulan la contratación del sector público, y las dictadas por la Comunidad Autónoma de Canarias, en el marco de sus respectivas competencias.
+3.2.- Las cuestiones litigiosas que pudieran suscitarse en relación a los actos que se dicten en la contratación a realizar podrán ser objeto de recurso de conformidad con lo dispuesto en la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-administrativa.
+Asimismo, serán susceptibles de recurso potestativo especial en materia de contratación los siguientes actos y decisiones relacionadas en el apartado 2 del artículo 44 de la LCSP:
+a) Los anuncios de licitación, los pliegos de cláusulas administrativas particulares, los pliegos de prescripciones técnicas, así como aquellos documentos contractuales que establezcan las condiciones que deban regir la contratación.
+b) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que éstos decidan directa o indirectamente sobre la adjudicación, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos. Se considerarán actos de trámite que determinan la imposibilidad de continuar el procedimiento los actos de la Mesa de Contratación por los que se acuerde la exclusión de las personas licitadoras.
+c) El acuerdo de adjudicación.
+d) Las modificaciones basadas en el incumplimiento de lo establecido en los artículos 204 y 205 de la LCSP, por entender que la modificación debió ser objeto de una nueva adjudicación.
+3.3.- Los defectos de tramitación que afecten a actos distintos de los contemplados  en el apartado anterior podrán ser puestos de manifiesto por las personas  interesadas al órgano de contratación, a efectos de su corrección con arreglo a derecho, y sin perjuicio de que las irregularidades que les afecten puedan ser alegadas por las personas interesadas al recurrir el acto de adjudicación.
+3.4.- Contra las actuaciones mencionadas en el  artículo 44.2 de la LCSP como susceptibles de ser impugnadas mediante recurso especial, no procederá la interposición de recursos administrativos ordinarios.
+3.5.- La resolución del recurso especial podrá ser objeto de impugnación en la jurisdicción contencioso-administrativa.
+3.6.- No obstante lo anterior, los acuerdos que adopte el órgano de contratación en los procedimientos relativos a las prerrogativas establecidas en el artículo 190 de la LCSP, salvo las modificaciones mencionadas en el artículo 44 apartado 2 letra d) de la LCSP, pondrán fin a la vía administrativa, y serán inmediatamente ejecutivos, pudiendo ser recurridos potestativamente en reposición ante el mismo órgano que los dictó, o ser impugnado mediante recurso contencioso-administrativo, conforme a lo dispuesto en la Ley reguladora de dicha Jurisdicción.
+#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+USER: Informacion: Responder preguntas usando el contexto proporcionado, separando en parrafos los conceptos principal. Si la pregunta es sobre cifras, como presupuestos ofrecerlas en formato tabla hacer un primer parrafo siendo conciso de lo que explica el titulo del contexto En el caso de que el <context> tiene lotes hacer unos epigrafes para lo mismo. Solo si hay más de un lote aclarar si me puedo presentar a varios lotes. Si existe en el <context> listaCPV, añadir en una lista estructurada los cpv con descripcion correspondiente la listaCPV viene ya con su y su descripcion, añadela tal cual antes de añadir la listaCPV, añadir un parrafo introductorio diciendo que los cpv utilizados en este contrato son los siguientes o algo similar. los lotes vienen enumerados, colocarlos en otden ascendente.
+<context>titulo: Acuerdo Marco para el suministro de combustible al Cabildo Insular de Tenerife, Ayuntamientos y Entidades adheridas + listaCPV: - 09122100-1: Gas propano
+- 09130000-9: Petróleo y destilados
+- 09122000-0: Propano y butano
+- 24951000-5: Grasas y lubricantes
+- 09132100-4: Gasolina sin plomo
+- 09211000-1: Aceites lubricantes y agentes lubricantes
+- 24957000-7: Aditivos químicos
+- 09134100-8: Gasoil
+ Lotes:lote 1: -nombre:Lote 1 -cpvList: - 09211000-1: Aceites lubricantes y agentes lubricantes
+
+lote 2: -nombre:Lote 2 -cpvList: - 09132100-4: Gasolina sin plomo
+
+<context>
+Pregunta:Quiero que me redactes la seccion del objeto del contrato
+
+
+RESULT:
+ I
+DISPOSICIONES GENERALES
+
+1 OBJETO DEL CONTRATO
+El objeto de este contrato es el establecimiento de un Acuerdo Marco para el suministro de combustible al Cabildo Insular de Tenerife, Ayuntamientos y Entidades adheridas. Este acuerdo marco se divide en diferentes lotes, cada uno enfocado a un tipo específico de suministro.
+
+Los CPV utilizados en este contrato son los siguientes:
+
+*   09122100-1: Gas propano
+*   09130000-9: Petróleo y destilados
+*   09122000-0: Propano y butano
+*   24951000-5: Grasas y lubricantes
+*   09132100-4: Gasolina sin plomo
+*   09211000-1: Aceites lubricantes y agentes lubricantes
+*   24957000-7: Aditivos químicos
+*   09134100-8: Gasoil
+
+**Lote 1: Aceites lubricantes y agentes lubricantes**
+
+Este lote se centra en el suministro de aceites lubricantes y agentes lubricantes, identificados con el CPV 09211000-1.
+
+**Lote 2: Gasolina sin plomo**
+
+Este lote se dedica al suministro de gasolina sin plomo, clasificada bajo el CPV 09132100-4.
+--------------------------------------------------------------------------
+USER: Informacion: Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife".
+<context>organizacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife<context>
+Pregunta:quiero que redactes el primer parrafo de la organizacion contratante 
+
+
+RESULT:
+ 2.- ÓRGANO DE CONTRATACIÓN (arts. 61, 63 y 190  LCSP)
+Excmo. Cabildo Insular de Tenerife, a través de su Consejo de Gobierno Insular, es la entidad contratante en este procedimiento.
+
+2.2.- El mencionado órgano tiene facultad para adjudicar el contrato y ostenta las prerrogativas de interpretarlo, resolver las dudas que ofrezca su cumplimiento, modificarlo por razones de interés público, declarar la responsabilidad imputable al contratista a raíz de la ejecución del mismo, suspender dicha  ejecución, acordar la  resolución del contrato y determinar los efectos de ésta, con sujeción a la normativa aplicable.
+Igualmente, el órgano de contratación ostenta las facultades de inspección de las actividades desarrolladas por la persona contratista durante la ejecución del contrato, de conformidad con lo establecido en el segundo párrafo del artículo 190 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Publico (LCSP).2.3.- De conformidad con lo establecido en el artículo 63 de la LCSP, el órgano de contratación dará la información relativa a la presente contratación en el  Perfil del Contratante del Gobierno de Canarias, alojado  en la Plataforma de Contratación del Sector Público  (https://contrataciondelestado.es/wps/portal/plataforma)--------------------------------------------------------------------------
+USER: template
+
+RESULT:
+ 3.- RÉGIMEN JURÍDICO Y JURISDICCIÓN
+3.1.- La contratación a realizar se califica como contrato de suministro de carácter administrativo, de conformidad con lo establecido en los artículos 16 y 25 de la LCSP, quedando sometida a dicha ley, a las normas reglamentarias que la desarrollen, y a las cláusulas contenidas en el presente pliego de cláusulas administrativas particulares y en el de prescripciones técnicas.
+Asimismo, serán de aplicación las demás disposiciones estatales que regulan la contratación del sector público, y las dictadas por la Comunidad Autónoma de Canarias, en el marco de sus respectivas competencias.
+3.2.- Las cuestiones litigiosas que pudieran suscitarse en relación a los actos que se dicten en la contratación a realizar podrán ser objeto de recurso de conformidad con lo dispuesto en la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-administrativa.
+Asimismo, serán susceptibles de recurso potestativo especial en materia de contratación los siguientes actos y decisiones relacionadas en el apartado 2 del artículo 44 de la LCSP:
+a) Los anuncios de licitación, los pliegos de cláusulas administrativas particulares, los pliegos de prescripciones técnicas, así como aquellos documentos contractuales que establezcan las condiciones que deban regir la contratación.
+b) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que éstos decidan directa o indirectamente sobre la adjudicación, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos. Se considerarán actos de trámite que determinan la imposibilidad de continuar el procedimiento los actos de la Mesa de Contratación por los que se acuerde la exclusión de las personas licitadoras.
+c) El acuerdo de adjudicación.
+d) Las modificaciones basadas en el incumplimiento de lo establecido en los artículos 204 y 205 de la LCSP, por entender que la modificación debió ser objeto de una nueva adjudicación.
+3.3.- Los defectos de tramitación que afecten a actos distintos de los contemplados  en el apartado anterior podrán ser puestos de manifiesto por las personas  interesadas al órgano de contratación, a efectos de su corrección con arreglo a derecho, y sin perjuicio de que las irregularidades que les afecten puedan ser alegadas por las personas interesadas al recurrir el acto de adjudicación.
+3.4.- Contra las actuaciones mencionadas en el  artículo 44.2 de la LCSP como susceptibles de ser impugnadas mediante recurso especial, no procederá la interposición de recursos administrativos ordinarios.
+3.5.- La resolución del recurso especial podrá ser objeto de impugnación en la jurisdicción contencioso-administrativa.
+3.6.- No obstante lo anterior, los acuerdos que adopte el órgano de contratación en los procedimientos relativos a las prerrogativas establecidas en el artículo 190 de la LCSP, salvo las modificaciones mencionadas en el artículo 44 apartado 2 letra d) de la LCSP, pondrán fin a la vía administrativa, y serán inmediatamente ejecutivos, pudiendo ser recurridos potestativamente en reposición ante el mismo órgano que los dictó, o ser impugnado mediante recurso contencioso-administrativo, conforme a lo dispuesto en la Ley reguladora de dicha Jurisdicción.
+#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+USER: Informacion: Responder preguntas usando el contexto proporcionado, separando en parrafos los conceptos principal. Si la pregunta es sobre cifras, como presupuestos ofrecerlas en formato tabla hacer un primer parrafo siendo conciso de lo que explica el titulo del contexto En el caso de que el <context> tiene lotes hacer unos epigrafes para lo mismo. Solo si hay más de un lote aclarar si me puedo presentar a varios lotes. Si existe en el <context> listaCPV, añadir en una lista estructurada los cpv con descripcion correspondiente la listaCPV viene ya con su y su descripcion, añadela tal cual antes de añadir la listaCPV, añadir un parrafo introductorio diciendo que los cpv utilizados en este contrato son los siguientes o algo similar. los lotes vienen enumerados, colocarlos en otden ascendente.
+<context>titulo: Suministro e instalación del mobiliario para el Centro Insular de Entidades de Voluntariado CEIV del Excelentísimo Cabildo Insular de Tenerife + listaCPV: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+ Lotes:lote 1: -nombre:Suministro e instalación de Mobiliario a Fabricar -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 2: -nombre:Suministro e instalación de Accesorios -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 3: -nombre:Suministro e instalación de Cortinas Metálicas -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 4: -nombre:Suministro e instalación de Cortines Fonoabsorbentes -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 5: -nombre:Suministro e instalación de Carril de Paneles -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 6: -nombre:Suministro e instalación de Office -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 7: -nombre:Suministro e instalación de Audiovisuales -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+<context>
+Pregunta:Quiero que me redactes la seccion del objeto del contrato
+
+
+RESULT:
+ I
+DISPOSICIONES GENERALES
+
+1 OBJETO DEL CONTRATO
+El objeto de este contrato es el suministro e instalación del mobiliario para el Centro Insular de Entidades de Voluntariado CEIV del Excelentísimo Cabildo Insular de Tenerife. Este suministro se divide en varios lotes que abarcan diferentes tipos de mobiliario y equipamiento.
+
+Los CPV utilizados en este contrato son los siguientes:
+
+*   39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+A continuación, se describen los diferentes lotes que componen el objeto del contrato:
+
+### Lote 1: Suministro e instalación de Mobiliario a Fabricar
+
+Este lote se centra en el suministro e instalación de mobiliario que requiere fabricación.
+
+### Lote 2: Suministro e instalación de Accesorios
+
+Este lote comprende el suministro e instalación de accesorios para el mobiliario.
+
+### Lote 3: Suministro e instalación de Cortinas Metálicas
+
+Este lote abarca el suministro e instalación de cortinas metálicas.
+
+### Lote 4: Suministro e instalación de Cortinas Fonoabsorbentes
+
+Este lote se refiere al suministro e instalación de cortinas con propiedades fonoabsorbentes.
+
+### Lote 5: Suministro e instalación de Carril de Paneles
+
+Este lote incluye el suministro e instalación de carriles para paneles.
+
+### Lote 6: Suministro e instalación de Office
+
+Este lote se centra en el suministro e instalación del mobiliario y equipamiento para la zona de office.
+
+### Lote 7: Suministro e instalación de Audiovisuales
+
+Este lote comprende el suministro e instalación de equipos audiovisuales.
+--------------------------------------------------------------------------
+USER: Informacion: Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife".
+<context>organizacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife<context>
+Pregunta:quiero que redactes el primer parrafo de la organizacion contratante 
+
+
+RESULT:
+ 2.- ÓRGANO DE CONTRATACIÓN (arts. 61, 63 y 190  LCSP)
+Excmo. Cabildo Insular de Tenerife, a través de su Consejo de Gobierno Insular, actúa como entidad contratante en el presente procedimiento.
+
+2.2.- El mencionado órgano tiene facultad para adjudicar el contrato y ostenta las prerrogativas de interpretarlo, resolver las dudas que ofrezca su cumplimiento, modificarlo por razones de interés público, declarar la responsabilidad imputable al contratista a raíz de la ejecución del mismo, suspender dicha  ejecución, acordar la  resolución del contrato y determinar los efectos de ésta, con sujeción a la normativa aplicable.
+Igualmente, el órgano de contratación ostenta las facultades de inspección de las actividades desarrolladas por la persona contratista durante la ejecución del contrato, de conformidad con lo establecido en el segundo párrafo del artículo 190 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Publico (LCSP).2.3.- De conformidad con lo establecido en el artículo 63 de la LCSP, el órgano de contratación dará la información relativa a la presente contratación en el  Perfil del Contratante del Gobierno de Canarias, alojado  en la Plataforma de Contratación del Sector Público  (https://contrataciondelestado.es/wps/portal/plataforma)--------------------------------------------------------------------------
+USER: template
+
+RESULT:
+ 3.- RÉGIMEN JURÍDICO Y JURISDICCIÓN
+3.1.- La contratación a realizar se califica como contrato de suministro de carácter administrativo, de conformidad con lo establecido en los artículos 16 y 25 de la LCSP, quedando sometida a dicha ley, a las normas reglamentarias que la desarrollen, y a las cláusulas contenidas en el presente pliego de cláusulas administrativas particulares y en el de prescripciones técnicas.
+Asimismo, serán de aplicación las demás disposiciones estatales que regulan la contratación del sector público, y las dictadas por la Comunidad Autónoma de Canarias, en el marco de sus respectivas competencias.
+3.2.- Las cuestiones litigiosas que pudieran suscitarse en relación a los actos que se dicten en la contratación a realizar podrán ser objeto de recurso de conformidad con lo dispuesto en la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-administrativa.
+Asimismo, serán susceptibles de recurso potestativo especial en materia de contratación los siguientes actos y decisiones relacionadas en el apartado 2 del artículo 44 de la LCSP:
+a) Los anuncios de licitación, los pliegos de cláusulas administrativas particulares, los pliegos de prescripciones técnicas, así como aquellos documentos contractuales que establezcan las condiciones que deban regir la contratación.
+b) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que éstos decidan directa o indirectamente sobre la adjudicación, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos. Se considerarán actos de trámite que determinan la imposibilidad de continuar el procedimiento los actos de la Mesa de Contratación por los que se acuerde la exclusión de las personas licitadoras.
+c) El acuerdo de adjudicación.
+d) Las modificaciones basadas en el incumplimiento de lo establecido en los artículos 204 y 205 de la LCSP, por entender que la modificación debió ser objeto de una nueva adjudicación.
+3.3.- Los defectos de tramitación que afecten a actos distintos de los contemplados  en el apartado anterior podrán ser puestos de manifiesto por las personas  interesadas al órgano de contratación, a efectos de su corrección con arreglo a derecho, y sin perjuicio de que las irregularidades que les afecten puedan ser alegadas por las personas interesadas al recurrir el acto de adjudicación.
+3.4.- Contra las actuaciones mencionadas en el  artículo 44.2 de la LCSP como susceptibles de ser impugnadas mediante recurso especial, no procederá la interposición de recursos administrativos ordinarios.
+3.5.- La resolución del recurso especial podrá ser objeto de impugnación en la jurisdicción contencioso-administrativa.
+3.6.- No obstante lo anterior, los acuerdos que adopte el órgano de contratación en los procedimientos relativos a las prerrogativas establecidas en el artículo 190 de la LCSP, salvo las modificaciones mencionadas en el artículo 44 apartado 2 letra d) de la LCSP, pondrán fin a la vía administrativa, y serán inmediatamente ejecutivos, pudiendo ser recurridos potestativamente en reposición ante el mismo órgano que los dictó, o ser impugnado mediante recurso contencioso-administrativo, conforme a lo dispuesto en la Ley reguladora de dicha Jurisdicción.
+#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+USER: Informacion: Responder preguntas usando el contexto proporcionado, separando en parrafos los conceptos principal. Si la pregunta es sobre cifras, como presupuestos ofrecerlas en formato tabla hacer un primer parrafo siendo conciso de lo que explica el titulo del contexto En el caso de que el <context> tiene lotes hacer unos epigrafes para lo mismo. Solo si hay más de un lote aclarar si me puedo presentar a varios lotes. Si existe en el <context> listaCPV, añadir en una lista estructurada los cpv con descripcion correspondiente la listaCPV viene ya con su y su descripcion, añadela tal cual antes de añadir la listaCPV, añadir un parrafo introductorio diciendo que los cpv utilizados en este contrato son los siguientes o algo similar. los lotes vienen enumerados, colocarlos en otden ascendente.
+<context>titulo: Suministro e instalación del mobiliario para el Centro Insular de Entidades de Voluntariado CEIV del Excelentísimo Cabildo Insular de Tenerife + listaCPV: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+ Lotes:lote 1: -nombre:Suministro e instalación de Mobiliario a Fabricar -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 2: -nombre:Suministro e instalación de Accesorios -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 3: -nombre:Suministro e instalación de Cortinas Metálicas -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 4: -nombre:Suministro e instalación de Cortines Fonoabsorbentes -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 5: -nombre:Suministro e instalación de Carril de Paneles -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 6: -nombre:Suministro e instalación de Office -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 7: -nombre:Suministro e instalación de Audiovisuales -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+<context>
+Pregunta:Quiero que me redactes la seccion del objeto del contrato
+
+
+RESULT:
+ I
+DISPOSICIONES GENERALES
+
+1 OBJETO DEL CONTRATO
+El objeto del contrato es el suministro e instalación del mobiliario para el Centro Insular de Entidades de Voluntariado CEIV del Excelentísimo Cabildo Insular de Tenerife. Este contrato se divide en varios lotes, cada uno enfocado en un tipo específico de suministro e instalación.
+
+Los CPV utilizados en este contrato son los siguientes:
+
+*   39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+A continuación, se detallan los diferentes lotes que componen el objeto del contrato:
+
+### Lote 1: Suministro e instalación de Mobiliario a Fabricar
+
+Este lote se centra en el suministro e instalación de mobiliario que requiere fabricación.
+
+### Lote 2: Suministro e instalación de Accesorios
+
+Este lote comprende el suministro e instalación de accesorios.
+
+### Lote 3: Suministro e instalación de Cortinas Metálicas
+
+Este lote se refiere al suministro e instalación de cortinas metálicas.
+
+### Lote 4: Suministro e instalación de Cortinas Fonoabsorbentes
+
+Este lote abarca el suministro e instalación de cortinas con propiedades fonoabsorbentes.
+
+### Lote 5: Suministro e instalación de Carril de Paneles
+
+Este lote se enfoca en el suministro e instalación de carril de paneles.
+
+### Lote 6: Suministro e instalación de Office
+
+Este lote incluye el suministro e instalación de equipamiento para la zona de office.
+
+### Lote 7: Suministro e instalación de Audiovisuales
+
+Este lote se dedica al suministro e instalación de equipos audiovisuales.
+--------------------------------------------------------------------------
+USER: Informacion: Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife".
+<context>organizacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife<context>
+Pregunta:quiero que redactes el primer parrafo de la organizacion contratante 
+
+
+RESULT:
+ 2.- ÓRGANO DE CONTRATACIÓN (arts. 61, 63 y 190  LCSP)
+Excmo. Cabildo Insular de Tenerife, a través de su Consejo de Gobierno Insular, es la entidad contratante en este caso.
+
+2.2.- El mencionado órgano tiene facultad para adjudicar el contrato y ostenta las prerrogativas de interpretarlo, resolver las dudas que ofrezca su cumplimiento, modificarlo por razones de interés público, declarar la responsabilidad imputable al contratista a raíz de la ejecución del mismo, suspender dicha  ejecución, acordar la  resolución del contrato y determinar los efectos de ésta, con sujeción a la normativa aplicable.
+Igualmente, el órgano de contratación ostenta las facultades de inspección de las actividades desarrolladas por la persona contratista durante la ejecución del contrato, de conformidad con lo establecido en el segundo párrafo del artículo 190 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Publico (LCSP).2.3.- De conformidad con lo establecido en el artículo 63 de la LCSP, el órgano de contratación dará la información relativa a la presente contratación en el  Perfil del Contratante del Gobierno de Canarias, alojado  en la Plataforma de Contratación del Sector Público  (https://contrataciondelestado.es/wps/portal/plataforma)--------------------------------------------------------------------------
+USER: template
+
+RESULT:
+ 3.- RÉGIMEN JURÍDICO Y JURISDICCIÓN
+3.1.- La contratación a realizar se califica como contrato de suministro de carácter administrativo, de conformidad con lo establecido en los artículos 16 y 25 de la LCSP, quedando sometida a dicha ley, a las normas reglamentarias que la desarrollen, y a las cláusulas contenidas en el presente pliego de cláusulas administrativas particulares y en el de prescripciones técnicas.
+Asimismo, serán de aplicación las demás disposiciones estatales que regulan la contratación del sector público, y las dictadas por la Comunidad Autónoma de Canarias, en el marco de sus respectivas competencias.
+3.2.- Las cuestiones litigiosas que pudieran suscitarse en relación a los actos que se dicten en la contratación a realizar podrán ser objeto de recurso de conformidad con lo dispuesto en la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-administrativa.
+Asimismo, serán susceptibles de recurso potestativo especial en materia de contratación los siguientes actos y decisiones relacionadas en el apartado 2 del artículo 44 de la LCSP:
+a) Los anuncios de licitación, los pliegos de cláusulas administrativas particulares, los pliegos de prescripciones técnicas, así como aquellos documentos contractuales que establezcan las condiciones que deban regir la contratación.
+b) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que éstos decidan directa o indirectamente sobre la adjudicación, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos. Se considerarán actos de trámite que determinan la imposibilidad de continuar el procedimiento los actos de la Mesa de Contratación por los que se acuerde la exclusión de las personas licitadoras.
+c) El acuerdo de adjudicación.
+d) Las modificaciones basadas en el incumplimiento de lo establecido en los artículos 204 y 205 de la LCSP, por entender que la modificación debió ser objeto de una nueva adjudicación.
+3.3.- Los defectos de tramitación que afecten a actos distintos de los contemplados  en el apartado anterior podrán ser puestos de manifiesto por las personas  interesadas al órgano de contratación, a efectos de su corrección con arreglo a derecho, y sin perjuicio de que las irregularidades que les afecten puedan ser alegadas por las personas interesadas al recurrir el acto de adjudicación.
+3.4.- Contra las actuaciones mencionadas en el  artículo 44.2 de la LCSP como susceptibles de ser impugnadas mediante recurso especial, no procederá la interposición de recursos administrativos ordinarios.
+3.5.- La resolución del recurso especial podrá ser objeto de impugnación en la jurisdicción contencioso-administrativa.
+3.6.- No obstante lo anterior, los acuerdos que adopte el órgano de contratación en los procedimientos relativos a las prerrogativas establecidas en el artículo 190 de la LCSP, salvo las modificaciones mencionadas en el artículo 44 apartado 2 letra d) de la LCSP, pondrán fin a la vía administrativa, y serán inmediatamente ejecutivos, pudiendo ser recurridos potestativamente en reposición ante el mismo órgano que los dictó, o ser impugnado mediante recurso contencioso-administrativo, conforme a lo dispuesto en la Ley reguladora de dicha Jurisdicción.
+#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+USER: Informacion: Responder preguntas usando el contexto proporcionado, separando en parrafos los conceptos principal. Si la pregunta es sobre cifras, como presupuestos ofrecerlas en formato tabla hacer un primer parrafo siendo conciso de lo que explica el titulo del contexto En el caso de que el <context> tiene lotes hacer unos epigrafes para lo mismo. Solo si hay más de un lote aclarar si me puedo presentar a varios lotes. Si existe en el <context> listaCPV, añadir en una lista estructurada los cpv con descripcion correspondiente la listaCPV viene ya con su y su descripcion, añadela tal cual antes de añadir la listaCPV, añadir un parrafo introductorio diciendo que los cpv utilizados en este contrato son los siguientes o algo similar. los lotes vienen enumerados, colocarlos en otden ascendente.
+<context>titulo: Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral + listaCPV: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+ Lotes:lote 1: -nombre:Vestuario Monocolor (verde, granate, azul y negro) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 10: -nombre:Cinturones -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 11: -nombre:Ropa térmica -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 12: -nombre:Tubulares y manguitos textil -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 13: -nombre:Gorras/Gorros -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 14: -nombre:Gorras Especiales -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 15: -nombre:Chaqueta reversible -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 16: -nombre:Vestuario diverso -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 17: -nombre:Vestuario ordenanzas -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 2: -nombre:Vestuario Visibilidad Realzada (V.R.) (verde) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 3: -nombre:Vestuario Alta Visibilidad (A.V.) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 4: -nombre:Pantalones de trabajo -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 5: -nombre:Vestuario Incendios -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 6: -nombre:Vestuario Incendios Especial -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 7: -nombre:Vestuario Oficios (Mecánicos, electricistas, cerrajeros) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 8: -nombre:Vestuario médico/laboratorio -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 9: -nombre:Calcetines -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+<context>
+Pregunta:Quiero que me redactes la seccion del objeto del contrato
+
+
+RESULT:
+ I
+DISPOSICIONES GENERALES
+
+1 OBJETO DEL CONTRATO
+El objeto del contrato es el suministro de vestuario y complementos para el personal de las distintas áreas del CIT. Se busca que los productos incorporen innovaciones tecnológicas en su fabricación, permitiendo el uso de materiales reciclados o su reciclaje al final de su vida útil, fomentando la economía circular. También se valora la contratación de personal con dificultades de acceso al mercado laboral.
+
+Los CPV utilizados en este contrato son los siguientes:
+
+*   18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios.
+
+El contrato se divide en los siguientes lotes:
+
+### Lote 1: Vestuario Monocolor (verde, granate, azul y negro)
+
+Suministro de vestuario monocolor en verde, granate, azul y negro.
+
+### Lote 2: Vestuario Visibilidad Realzada (V.R.) (verde)
+
+Suministro de vestuario de visibilidad realzada en color verde.
+
+### Lote 3: Vestuario Alta Visibilidad (A.V.)
+
+Suministro de vestuario de alta visibilidad.
+
+### Lote 4: Pantalones de trabajo
+
+Suministro de pantalones de trabajo.
+
+### Lote 5: Vestuario Incendios
+
+Suministro de vestuario para incendios.
+
+### Lote 6: Vestuario Incendios Especial
+
+Suministro de vestuario especial para incendios.
+
+### Lote 7: Vestuario Oficios (Mecánicos, electricistas, cerrajeros)
+
+Suministro de vestuario para oficios como mecánicos, electricistas y cerrajeros.
+
+### Lote 8: Vestuario médico/laboratorio
+
+Suministro de vestuario para uso médico y de laboratorio.
+
+### Lote 9: Calcetines
+
+Suministro de calcetines.
+
+### Lote 10: Cinturones
+
+Suministro de cinturones.
+
+### Lote 11: Ropa térmica
+
+Suministro de ropa térmica.
+
+### Lote 12: Tubulares y manguitos textil
+
+Suministro de tubulares y manguitos textiles.
+
+### Lote 13: Gorras/Gorros
+
+Suministro de gorras y gorros.
+
+### Lote 14: Gorras Especiales
+
+Suministro de gorras especiales.
+
+### Lote 15: Chaqueta reversible
+
+Suministro de chaquetas reversibles.
+
+### Lote 16: Vestuario diverso
+
+Suministro de vestuario diverso.
+
+### Lote 17: Vestuario ordenanzas
+
+Suministro de vestuario para ordenanzas.
+
+No se especifica si es posible presentarse a varios lotes.
+--------------------------------------------------------------------------
+USER: Informacion: Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife".
+<context>organizacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife<context>
+Pregunta:quiero que redactes el primer parrafo de la organizacion contratante 
+
+
+RESULT:
+ 2.- ÓRGANO DE CONTRATACIÓN (arts. 61, 63 y 190  LCSP)
+Excmo. Cabildo Insular de Tenerife, a través de su Consejo de Gobierno Insular, es la entidad contratante responsable de la presente licitación.
+
+2.2.- El mencionado órgano tiene facultad para adjudicar el contrato y ostenta las prerrogativas de interpretarlo, resolver las dudas que ofrezca su cumplimiento, modificarlo por razones de interés público, declarar la responsabilidad imputable al contratista a raíz de la ejecución del mismo, suspender dicha  ejecución, acordar la  resolución del contrato y determinar los efectos de ésta, con sujeción a la normativa aplicable.
+Igualmente, el órgano de contratación ostenta las facultades de inspección de las actividades desarrolladas por la persona contratista durante la ejecución del contrato, de conformidad con lo establecido en el segundo párrafo del artículo 190 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Publico (LCSP).2.3.- De conformidad con lo establecido en el artículo 63 de la LCSP, el órgano de contratación dará la información relativa a la presente contratación en el  Perfil del Contratante del Gobierno de Canarias, alojado  en la Plataforma de Contratación del Sector Público  (https://contrataciondelestado.es/wps/portal/plataforma)--------------------------------------------------------------------------
+USER: template
+
+RESULT:
+ 3.- RÉGIMEN JURÍDICO Y JURISDICCIÓN
+3.1.- La contratación a realizar se califica como contrato de suministro de carácter administrativo, de conformidad con lo establecido en los artículos 16 y 25 de la LCSP, quedando sometida a dicha ley, a las normas reglamentarias que la desarrollen, y a las cláusulas contenidas en el presente pliego de cláusulas administrativas particulares y en el de prescripciones técnicas.
+Asimismo, serán de aplicación las demás disposiciones estatales que regulan la contratación del sector público, y las dictadas por la Comunidad Autónoma de Canarias, en el marco de sus respectivas competencias.
+3.2.- Las cuestiones litigiosas que pudieran suscitarse en relación a los actos que se dicten en la contratación a realizar podrán ser objeto de recurso de conformidad con lo dispuesto en la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-administrativa.
+Asimismo, serán susceptibles de recurso potestativo especial en materia de contratación los siguientes actos y decisiones relacionadas en el apartado 2 del artículo 44 de la LCSP:
+a) Los anuncios de licitación, los pliegos de cláusulas administrativas particulares, los pliegos de prescripciones técnicas, así como aquellos documentos contractuales que establezcan las condiciones que deban regir la contratación.
+b) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que éstos decidan directa o indirectamente sobre la adjudicación, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos. Se considerarán actos de trámite que determinan la imposibilidad de continuar el procedimiento los actos de la Mesa de Contratación por los que se acuerde la exclusión de las personas licitadoras.
+c) El acuerdo de adjudicación.
+d) Las modificaciones basadas en el incumplimiento de lo establecido en los artículos 204 y 205 de la LCSP, por entender que la modificación debió ser objeto de una nueva adjudicación.
+3.3.- Los defectos de tramitación que afecten a actos distintos de los contemplados  en el apartado anterior podrán ser puestos de manifiesto por las personas  interesadas al órgano de contratación, a efectos de su corrección con arreglo a derecho, y sin perjuicio de que las irregularidades que les afecten puedan ser alegadas por las personas interesadas al recurrir el acto de adjudicación.
+3.4.- Contra las actuaciones mencionadas en el  artículo 44.2 de la LCSP como susceptibles de ser impugnadas mediante recurso especial, no procederá la interposición de recursos administrativos ordinarios.
+3.5.- La resolución del recurso especial podrá ser objeto de impugnación en la jurisdicción contencioso-administrativa.
+3.6.- No obstante lo anterior, los acuerdos que adopte el órgano de contratación en los procedimientos relativos a las prerrogativas establecidas en el artículo 190 de la LCSP, salvo las modificaciones mencionadas en el artículo 44 apartado 2 letra d) de la LCSP, pondrán fin a la vía administrativa, y serán inmediatamente ejecutivos, pudiendo ser recurridos potestativamente en reposición ante el mismo órgano que los dictó, o ser impugnado mediante recurso contencioso-administrativo, conforme a lo dispuesto en la Ley reguladora de dicha Jurisdicción.
+#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+USER: Informacion: Responder preguntas usando el contexto proporcionado, separando en parrafos los conceptos principal. Si la pregunta es sobre cifras, como presupuestos ofrecerlas en formato tabla hacer un primer parrafo siendo conciso de lo que explica el titulo del contexto En el caso de que el <context> tiene lotes hacer unos epigrafes para lo mismo. Solo si hay más de un lote aclarar si me puedo presentar a varios lotes. Si existe en el <context> listaCPV, añadir en una lista estructurada los cpv con descripcion correspondiente la listaCPV viene ya con su y su descripcion, añadela tal cual antes de añadir la listaCPV, añadir un parrafo introductorio diciendo que los cpv utilizados en este contrato son los siguientes o algo similar. los lotes vienen enumerados, colocarlos en otden ascendente.
+<context>titulo: Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral + listaCPV: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+ Lotes:lote 1: -nombre:Vestuario Monocolor (verde, granate, azul y negro) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 10: -nombre:Cinturones -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 11: -nombre:Ropa térmica -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 12: -nombre:Tubulares y manguitos textil -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 13: -nombre:Gorras/Gorros -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 14: -nombre:Gorras Especiales -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 15: -nombre:Chaqueta reversible -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 16: -nombre:Vestuario diverso -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 17: -nombre:Vestuario ordenanzas -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 2: -nombre:Vestuario Visibilidad Realzada (V.R.) (verde) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 3: -nombre:Vestuario Alta Visibilidad (A.V.) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 4: -nombre:Pantalones de trabajo -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 5: -nombre:Vestuario Incendios -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 6: -nombre:Vestuario Incendios Especial -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 7: -nombre:Vestuario Oficios (Mecánicos, electricistas, cerrajeros) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 8: -nombre:Vestuario médico/laboratorio -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 9: -nombre:Calcetines -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+<context>
+Pregunta:Quiero que me redactes la seccion del objeto del contrato
+
+
+RESULT:
+ I
+DISPOSICIONES GENERALES
+
+1 OBJETO DEL CONTRATO
+El contrato tiene como objeto el suministro de vestuario y complementos para el personal de las distintas áreas del CIT. Se busca que en la fabricación se incluyan innovaciones tecnológicas que permitan utilizar materiales reciclados o que los productos sean reciclables al final de su vida útil, promoviendo la economía circular. También se busca fomentar la contratación de personal con dificultades de acceso al mercado laboral.
+
+Los CPV utilizados en este contrato son los siguientes:
+
+*   18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+El contrato se divide en los siguientes lotes:
+
+### Lote 1: Vestuario Monocolor (verde, granate, azul y negro)
+
+Este lote se centra en el suministro de vestuario monocolor en las tonalidades de verde, granate, azul y negro.
+
+### Lote 2: Vestuario Visibilidad Realzada (V.R.) (verde)
+
+Este lote se enfoca en el suministro de vestuario de visibilidad realzada en color verde.
+
+### Lote 3: Vestuario Alta Visibilidad (A.V.)
+
+Este lote se destina al suministro de vestuario de alta visibilidad.
+
+### Lote 4: Pantalones de trabajo
+
+Este lote se centra en el suministro de pantalones de trabajo.
+
+### Lote 5: Vestuario Incendios
+
+Este lote se enfoca en el suministro de vestuario específico para incendios.
+
+### Lote 6: Vestuario Incendios Especial
+
+Este lote se destina al suministro de vestuario especial para incendios.
+
+### Lote 7: Vestuario Oficios (Mecánicos, electricistas, cerrajeros)
+
+Este lote se centra en el suministro de vestuario para oficios como mecánicos, electricistas y cerrajeros.
+
+### Lote 8: Vestuario médico/laboratorio
+
+Este lote se enfoca en el suministro de vestuario para uso médico y de laboratorio.
+
+### Lote 9: Calcetines
+
+Este lote se destina al suministro de calcetines.
+
+### Lote 10: Cinturones
+
+Este lote se centra en el suministro de cinturones.
+
+### Lote 11: Ropa térmica
+
+Este lote se enfoca en el suministro de ropa térmica.
+
+### Lote 12: Tubulares y manguitos textil
+
+Este lote se destina al suministro de tubulares y manguitos textiles.
+
+### Lote 13: Gorras/Gorros
+
+Este lote se centra en el suministro de gorras y gorros.
+
+### Lote 14: Gorras Especiales
+
+Este lote se enfoca en el suministro de gorras especiales.
+
+### Lote 15: Chaqueta reversible
+
+Este lote se destina al suministro de chaquetas reversibles.
+
+### Lote 16: Vestuario diverso
+
+Este lote se centra en el suministro de vestuario diverso.
+
+### Lote 17: Vestuario ordenanzas
+
+Este lote se enfoca en el suministro de vestuario para ordenanzas.
+
+No se especifica en el contexto si se puede presentar ofertas a varios lotes.
+--------------------------------------------------------------------------
+USER: Informacion: Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife". Quiero formalismo en este parrafo, ejemplo de introduccion " El órgano de contratación, que actúa en nombre de la Administración Pública de..." y en los puntos suspensivos añadir la comunidad en la que actua y la organizacion contratante que le confiere  facultades
+<context>organizacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife<context>
+Pregunta:quiero que redactes el primer parrafo de la organizacion contratante 
+
+
+RESULT:
+ 2.- ÓRGANO DE CONTRATACIÓN (arts. 61, 63 y 190  LCSP)
+El órgano de contratación, que actúa en nombre de la Administración Pública de la Comunidad Autónoma de Canarias, es el Excmo. Cabildo Insular de Tenerife, a través de su Consejo de Gobierno Insular, al que le confiere facultades.
+
+2.2.- El mencionado órgano tiene facultad para adjudicar el contrato y ostenta las prerrogativas de interpretarlo, resolver las dudas que ofrezca su cumplimiento, modificarlo por razones de interés público, declarar la responsabilidad imputable al contratista a raíz de la ejecución del mismo, suspender dicha  ejecución, acordar la  resolución del contrato y determinar los efectos de ésta, con sujeción a la normativa aplicable.
+Igualmente, el órgano de contratación ostenta las facultades de inspección de las actividades desarrolladas por la persona contratista durante la ejecución del contrato, de conformidad con lo establecido en el segundo párrafo del artículo 190 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Publico (LCSP).2.3.- De conformidad con lo establecido en el artículo 63 de la LCSP, el órgano de contratación dará la información relativa a la presente contratación en el  Perfil del Contratante del Gobierno de Canarias, alojado  en la Plataforma de Contratación del Sector Público  (https://contrataciondelestado.es/wps/portal/plataforma)--------------------------------------------------------------------------
+USER: template
+
+RESULT:
+ 3.- RÉGIMEN JURÍDICO Y JURISDICCIÓN
+3.1.- La contratación a realizar se califica como contrato de suministro de carácter administrativo, de conformidad con lo establecido en los artículos 16 y 25 de la LCSP, quedando sometida a dicha ley, a las normas reglamentarias que la desarrollen, y a las cláusulas contenidas en el presente pliego de cláusulas administrativas particulares y en el de prescripciones técnicas.
+Asimismo, serán de aplicación las demás disposiciones estatales que regulan la contratación del sector público, y las dictadas por la Comunidad Autónoma de Canarias, en el marco de sus respectivas competencias.
+3.2.- Las cuestiones litigiosas que pudieran suscitarse en relación a los actos que se dicten en la contratación a realizar podrán ser objeto de recurso de conformidad con lo dispuesto en la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-administrativa.
+Asimismo, serán susceptibles de recurso potestativo especial en materia de contratación los siguientes actos y decisiones relacionadas en el apartado 2 del artículo 44 de la LCSP:
+a) Los anuncios de licitación, los pliegos de cláusulas administrativas particulares, los pliegos de prescripciones técnicas, así como aquellos documentos contractuales que establezcan las condiciones que deban regir la contratación.
+b) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que éstos decidan directa o indirectamente sobre la adjudicación, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos. Se considerarán actos de trámite que determinan la imposibilidad de continuar el procedimiento los actos de la Mesa de Contratación por los que se acuerde la exclusión de las personas licitadoras.
+c) El acuerdo de adjudicación.
+d) Las modificaciones basadas en el incumplimiento de lo establecido en los artículos 204 y 205 de la LCSP, por entender que la modificación debió ser objeto de una nueva adjudicación.
+3.3.- Los defectos de tramitación que afecten a actos distintos de los contemplados  en el apartado anterior podrán ser puestos de manifiesto por las personas  interesadas al órgano de contratación, a efectos de su corrección con arreglo a derecho, y sin perjuicio de que las irregularidades que les afecten puedan ser alegadas por las personas interesadas al recurrir el acto de adjudicación.
+3.4.- Contra las actuaciones mencionadas en el  artículo 44.2 de la LCSP como susceptibles de ser impugnadas mediante recurso especial, no procederá la interposición de recursos administrativos ordinarios.
+3.5.- La resolución del recurso especial podrá ser objeto de impugnación en la jurisdicción contencioso-administrativa.
+3.6.- No obstante lo anterior, los acuerdos que adopte el órgano de contratación en los procedimientos relativos a las prerrogativas establecidas en el artículo 190 de la LCSP, salvo las modificaciones mencionadas en el artículo 44 apartado 2 letra d) de la LCSP, pondrán fin a la vía administrativa, y serán inmediatamente ejecutivos, pudiendo ser recurridos potestativamente en reposición ante el mismo órgano que los dictó, o ser impugnado mediante recurso contencioso-administrativo, conforme a lo dispuesto en la Ley reguladora de dicha Jurisdicción.
+#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+USER: Informacion: Responder preguntas usando el contexto proporcionado, separando en parrafos los conceptos principal. Si la pregunta es sobre cifras, como presupuestos ofrecerlas en formato tabla hacer un primer parrafo siendo conciso de lo que explica el titulo del contexto En el caso de que el <context> tiene lotes hacer unos epigrafes para lo mismo. Solo si hay más de un lote aclarar si me puedo presentar a varios lotes. Si existe en el <context> listaCPV, añadir en una lista estructurada los cpv con descripcion correspondiente la listaCPV viene ya con su y su descripcion, añadela tal cual antes de añadir la listaCPV, añadir un parrafo introductorio diciendo que los cpv utilizados en este contrato son los siguientes o algo similar. los lotes vienen enumerados, colocarlos en otden ascendente.
+<context>titulo: Acuerdo Marco para el suministro de combustible al Cabildo Insular de Tenerife, Ayuntamientos y Entidades adheridas + listaCPV: - 09122100-1: Gas propano
+- 09130000-9: Petróleo y destilados
+- 09122000-0: Propano y butano
+- 24951000-5: Grasas y lubricantes
+- 09132100-4: Gasolina sin plomo
+- 09211000-1: Aceites lubricantes y agentes lubricantes
+- 24957000-7: Aditivos químicos
+- 09134100-8: Gasoil
+ Lotes:lote 1: -nombre:Lote 1 -cpvList: - 09211000-1: Aceites lubricantes y agentes lubricantes
+
+lote 2: -nombre:Lote 2 -cpvList: - 09132100-4: Gasolina sin plomo
+
+<context>
+Pregunta:Quiero que me redactes la seccion del objeto del contrato
+
+
+RESULT:
+ I
+DISPOSICIONES GENERALES
+
+1 OBJETO DEL CONTRATO
+El objeto de este contrato es el establecimiento de un Acuerdo Marco para el suministro de combustible al Cabildo Insular de Tenerife, Ayuntamientos y Entidades adheridas. Este acuerdo abarca diversos tipos de combustibles, lubricantes y productos relacionados, divididos en lotes específicos.
+
+Los CPV (Vocabulario Común de Contratos Públicos) utilizados en este contrato son los siguientes:
+
+*   09122100-1: Gas propano
+*   09130000-9: Petróleo y destilados
+*   09122000-0: Propano y butano
+*   24951000-5: Grasas y lubricantes
+*   09132100-4: Gasolina sin plomo
+*   09211000-1: Aceites lubricantes y agentes lubricantes
+*   24957000-7: Aditivos químicos
+*   09134100-8: Gasoil
+
+A continuación, se detallan los lotes que componen este acuerdo marco:
+
+**Lote 1:**
+
+*   Nombre: Lote 1
+*   CPV:
+    *   09211000-1: Aceites lubricantes y agentes lubricantes
+
+**Lote 2:**
+
+*   Nombre: Lote 2
+*   CPV:
+    *   09132100-4: Gasolina sin plomo
+--------------------------------------------------------------------------
+USER: Informacion: Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife". Quiero formalismo en este parrafo, ejemplo de introduccion " El órgano de contratación, que actúa en nombre de la Administración Pública de..." y en los puntos suspensivos añadir la comunidad en la que actua y la organizacion contratante que le confiere  facultades
+<context>organizacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife<context>
+Pregunta:quiero que redactes el primer parrafo de la organizacion contratante 
+
+
+RESULT:
+ 2.- ÓRGANO DE CONTRATACIÓN (arts. 61, 63 y 190  LCSP)
+El órgano de contratación, que actúa en nombre de la Administración Pública de la Comunidad Autónoma de Canarias, es el Excmo. Cabildo Insular de Tenerife, y le confiere facultades el Consejo de Gobierno Insular del Cabildo Insular de Tenerife.
+
+2.2.- El mencionado órgano tiene facultad para adjudicar el contrato y ostenta las prerrogativas de interpretarlo, resolver las dudas que ofrezca su cumplimiento, modificarlo por razones de interés público, declarar la responsabilidad imputable al contratista a raíz de la ejecución del mismo, suspender dicha  ejecución, acordar la  resolución del contrato y determinar los efectos de ésta, con sujeción a la normativa aplicable.
+Igualmente, el órgano de contratación ostenta las facultades de inspección de las actividades desarrolladas por la persona contratista durante la ejecución del contrato, de conformidad con lo establecido en el segundo párrafo del artículo 190 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Publico (LCSP).2.3.- De conformidad con lo establecido en el artículo 63 de la LCSP, el órgano de contratación dará la información relativa a la presente contratación en el  Perfil del Contratante del Gobierno de Canarias, alojado  en la Plataforma de Contratación del Sector Público  (https://contrataciondelestado.es/wps/portal/plataforma)--------------------------------------------------------------------------
+USER: template
+
+RESULT:
+ 3.- RÉGIMEN JURÍDICO Y JURISDICCIÓN
+3.1.- La contratación a realizar se califica como contrato de suministro de carácter administrativo, de conformidad con lo establecido en los artículos 16 y 25 de la LCSP, quedando sometida a dicha ley, a las normas reglamentarias que la desarrollen, y a las cláusulas contenidas en el presente pliego de cláusulas administrativas particulares y en el de prescripciones técnicas.
+Asimismo, serán de aplicación las demás disposiciones estatales que regulan la contratación del sector público, y las dictadas por la Comunidad Autónoma de Canarias, en el marco de sus respectivas competencias.
+3.2.- Las cuestiones litigiosas que pudieran suscitarse en relación a los actos que se dicten en la contratación a realizar podrán ser objeto de recurso de conformidad con lo dispuesto en la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-administrativa.
+Asimismo, serán susceptibles de recurso potestativo especial en materia de contratación los siguientes actos y decisiones relacionadas en el apartado 2 del artículo 44 de la LCSP:
+a) Los anuncios de licitación, los pliegos de cláusulas administrativas particulares, los pliegos de prescripciones técnicas, así como aquellos documentos contractuales que establezcan las condiciones que deban regir la contratación.
+b) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que éstos decidan directa o indirectamente sobre la adjudicación, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos. Se considerarán actos de trámite que determinan la imposibilidad de continuar el procedimiento los actos de la Mesa de Contratación por los que se acuerde la exclusión de las personas licitadoras.
+c) El acuerdo de adjudicación.
+d) Las modificaciones basadas en el incumplimiento de lo establecido en los artículos 204 y 205 de la LCSP, por entender que la modificación debió ser objeto de una nueva adjudicación.
+3.3.- Los defectos de tramitación que afecten a actos distintos de los contemplados  en el apartado anterior podrán ser puestos de manifiesto por las personas  interesadas al órgano de contratación, a efectos de su corrección con arreglo a derecho, y sin perjuicio de que las irregularidades que les afecten puedan ser alegadas por las personas interesadas al recurrir el acto de adjudicación.
+3.4.- Contra las actuaciones mencionadas en el  artículo 44.2 de la LCSP como susceptibles de ser impugnadas mediante recurso especial, no procederá la interposición de recursos administrativos ordinarios.
+3.5.- La resolución del recurso especial podrá ser objeto de impugnación en la jurisdicción contencioso-administrativa.
+3.6.- No obstante lo anterior, los acuerdos que adopte el órgano de contratación en los procedimientos relativos a las prerrogativas establecidas en el artículo 190 de la LCSP, salvo las modificaciones mencionadas en el artículo 44 apartado 2 letra d) de la LCSP, pondrán fin a la vía administrativa, y serán inmediatamente ejecutivos, pudiendo ser recurridos potestativamente en reposición ante el mismo órgano que los dictó, o ser impugnado mediante recurso contencioso-administrativo, conforme a lo dispuesto en la Ley reguladora de dicha Jurisdicción.
+#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+USER: Informacion: Responder preguntas usando el contexto proporcionado, separando en parrafos los conceptos principal. Si la pregunta es sobre cifras, como presupuestos ofrecerlas en formato tabla hacer un primer parrafo siendo conciso de lo que explica el titulo del contexto En el caso de que el <context> tiene lotes hacer unos epigrafes para lo mismo. Solo si hay más de un lote aclarar si me puedo presentar a varios lotes. Si existe en el <context> listaCPV, añadir en una lista estructurada los cpv con descripcion correspondiente la listaCPV viene ya con su y su descripcion, añadela tal cual antes de añadir la listaCPV, añadir un parrafo introductorio diciendo que los cpv utilizados en este contrato son los siguientes o algo similar. los lotes vienen enumerados, colocarlos en otden ascendente.
+<context>titulo: Suministro e instalación del mobiliario para el Centro Insular de Entidades de Voluntariado CEIV del Excelentísimo Cabildo Insular de Tenerife + listaCPV: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+ Lotes:lote 1: -nombre:Suministro e instalación de Mobiliario a Fabricar -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 2: -nombre:Suministro e instalación de Accesorios -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 3: -nombre:Suministro e instalación de Cortinas Metálicas -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 4: -nombre:Suministro e instalación de Cortines Fonoabsorbentes -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 5: -nombre:Suministro e instalación de Carril de Paneles -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 6: -nombre:Suministro e instalación de Office -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 7: -nombre:Suministro e instalación de Audiovisuales -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+<context>
+Pregunta:Quiero que me redactes la seccion del objeto del contrato
+
+
+RESULT:
+ I
+DISPOSICIONES GENERALES
+
+1 OBJETO DEL CONTRATO
+El objeto del contrato es el suministro e instalación del mobiliario para el Centro Insular de Entidades de Voluntariado CEIV del Excelentísimo Cabildo Insular de Tenerife. Este suministro se divide en siete lotes diferentes, cada uno con un enfoque específico en diferentes aspectos del mobiliario e instalación.
+
+Los CPV utilizados en este contrato son los siguientes:
+
+*   39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+A continuación, se detallan los diferentes lotes que componen el objeto del contrato:
+
+**Lote 1: Suministro e instalación de Mobiliario a Fabricar**
+
+Este lote se centra en el suministro e instalación de mobiliario que requiere fabricación.
+
+**Lote 2: Suministro e instalación de Accesorios**
+
+Este lote se centra en el suministro e instalación de accesorios.
+
+**Lote 3: Suministro e instalación de Cortinas Metálicas**
+
+Este lote se centra en el suministro e instalación de cortinas metálicas.
+
+**Lote 4: Suministro e instalación de Cortinas Fonoabsorbentes**
+
+Este lote se centra en el suministro e instalación de cortinas fonoabsorbentes.
+
+**Lote 5: Suministro e instalación de Carril de Paneles**
+
+Este lote se centra en el suministro e instalación de carril de paneles.
+
+**Lote 6: Suministro e instalación de Office**
+
+Este lote se centra en el suministro e instalación de mobiliario para el office.
+
+**Lote 7: Suministro e instalación de Audiovisuales**
+
+Este lote se centra en el suministro e instalación de equipos audiovisuales.
+
+No se especifica en el contexto si se puede presentar ofertas a varios lotes.
+--------------------------------------------------------------------------
+USER: Informacion: Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife". Quiero formalismo en este parrafo, ejemplo de introduccion " El órgano de contratación, que actúa en nombre de la Administración Pública de..." y en los puntos suspensivos añadir la comunidad en la que actua y la organizacion contratante que le confiere  facultades
+<context>organizacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife<context>
+Pregunta:quiero que redactes el primer parrafo de la organizacion contratante 
+
+
+RESULT:
+ 2.- ÓRGANO DE CONTRATACIÓN (arts. 61, 63 y 190  LCSP)
+El órgano de contratación, que actúa en nombre de la Administración Pública de la Comunidad Autónoma de Canarias, es el Excmo. Cabildo Insular de Tenerife, específicamente el Consejo de Gobierno Insular del Cabildo Insular de Tenerife, al que le confiere facultades para este acto.
+
+2.2.- El mencionado órgano tiene facultad para adjudicar el contrato y ostenta las prerrogativas de interpretarlo, resolver las dudas que ofrezca su cumplimiento, modificarlo por razones de interés público, declarar la responsabilidad imputable al contratista a raíz de la ejecución del mismo, suspender dicha  ejecución, acordar la  resolución del contrato y determinar los efectos de ésta, con sujeción a la normativa aplicable.
+Igualmente, el órgano de contratación ostenta las facultades de inspección de las actividades desarrolladas por la persona contratista durante la ejecución del contrato, de conformidad con lo establecido en el segundo párrafo del artículo 190 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Publico (LCSP).2.3.- De conformidad con lo establecido en el artículo 63 de la LCSP, el órgano de contratación dará la información relativa a la presente contratación en el  Perfil del Contratante del Gobierno de Canarias, alojado  en la Plataforma de Contratación del Sector Público  (https://contrataciondelestado.es/wps/portal/plataforma)--------------------------------------------------------------------------
+USER: template
+
+RESULT:
+ 3.- RÉGIMEN JURÍDICO Y JURISDICCIÓN
+3.1.- La contratación a realizar se califica como contrato de suministro de carácter administrativo, de conformidad con lo establecido en los artículos 16 y 25 de la LCSP, quedando sometida a dicha ley, a las normas reglamentarias que la desarrollen, y a las cláusulas contenidas en el presente pliego de cláusulas administrativas particulares y en el de prescripciones técnicas.
+Asimismo, serán de aplicación las demás disposiciones estatales que regulan la contratación del sector público, y las dictadas por la Comunidad Autónoma de Canarias, en el marco de sus respectivas competencias.
+3.2.- Las cuestiones litigiosas que pudieran suscitarse en relación a los actos que se dicten en la contratación a realizar podrán ser objeto de recurso de conformidad con lo dispuesto en la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-administrativa.
+Asimismo, serán susceptibles de recurso potestativo especial en materia de contratación los siguientes actos y decisiones relacionadas en el apartado 2 del artículo 44 de la LCSP:
+a) Los anuncios de licitación, los pliegos de cláusulas administrativas particulares, los pliegos de prescripciones técnicas, así como aquellos documentos contractuales que establezcan las condiciones que deban regir la contratación.
+b) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que éstos decidan directa o indirectamente sobre la adjudicación, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos. Se considerarán actos de trámite que determinan la imposibilidad de continuar el procedimiento los actos de la Mesa de Contratación por los que se acuerde la exclusión de las personas licitadoras.
+c) El acuerdo de adjudicación.
+d) Las modificaciones basadas en el incumplimiento de lo establecido en los artículos 204 y 205 de la LCSP, por entender que la modificación debió ser objeto de una nueva adjudicación.
+3.3.- Los defectos de tramitación que afecten a actos distintos de los contemplados  en el apartado anterior podrán ser puestos de manifiesto por las personas  interesadas al órgano de contratación, a efectos de su corrección con arreglo a derecho, y sin perjuicio de que las irregularidades que les afecten puedan ser alegadas por las personas interesadas al recurrir el acto de adjudicación.
+3.4.- Contra las actuaciones mencionadas en el  artículo 44.2 de la LCSP como susceptibles de ser impugnadas mediante recurso especial, no procederá la interposición de recursos administrativos ordinarios.
+3.5.- La resolución del recurso especial podrá ser objeto de impugnación en la jurisdicción contencioso-administrativa.
+3.6.- No obstante lo anterior, los acuerdos que adopte el órgano de contratación en los procedimientos relativos a las prerrogativas establecidas en el artículo 190 de la LCSP, salvo las modificaciones mencionadas en el artículo 44 apartado 2 letra d) de la LCSP, pondrán fin a la vía administrativa, y serán inmediatamente ejecutivos, pudiendo ser recurridos potestativamente en reposición ante el mismo órgano que los dictó, o ser impugnado mediante recurso contencioso-administrativo, conforme a lo dispuesto en la Ley reguladora de dicha Jurisdicción.
+#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+USER: Informacion: Responder preguntas usando el contexto proporcionado, separando en parrafos los conceptos principal. Si la pregunta es sobre cifras, como presupuestos ofrecerlas en formato tabla hacer un primer parrafo siendo conciso de lo que explica el titulo del contexto En el caso de que el <context> tiene lotes hacer unos epigrafes para lo mismo. Solo si hay más de un lote aclarar si me puedo presentar a varios lotes. Si existe en el <context> listaCPV, añadir en una lista estructurada los cpv con descripcion correspondiente la listaCPV viene ya con su y su descripcion, añadela tal cual antes de añadir la listaCPV, añadir un parrafo introductorio diciendo que los cpv utilizados en este contrato son los siguientes o algo similar. los lotes vienen enumerados, colocarlos en otden ascendente.
+<context>titulo: Suministro e instalación del mobiliario para el Centro Insular de Entidades de Voluntariado CEIV del Excelentísimo Cabildo Insular de Tenerife + listaCPV: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+ Lotes:lote 1: -nombre:Suministro e instalación de Mobiliario a Fabricar -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 2: -nombre:Suministro e instalación de Accesorios -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 3: -nombre:Suministro e instalación de Cortinas Metálicas -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 4: -nombre:Suministro e instalación de Cortines Fonoabsorbentes -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 5: -nombre:Suministro e instalación de Carril de Paneles -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 6: -nombre:Suministro e instalación de Office -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+lote 7: -nombre:Suministro e instalación de Audiovisuales -cpvList: - 39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+<context>
+Pregunta:Quiero que me redactes la seccion del objeto del contrato
+
+
+RESULT:
+ I
+DISPOSICIONES GENERALES
+
+1 OBJETO DEL CONTRATO
+El objeto del contrato consiste en el suministro e instalación del mobiliario para el Centro Insular de Entidades de Voluntariado CEIV del Excelentísimo Cabildo Insular de Tenerife. El contrato se divide en siete lotes distintos, cada uno enfocado en un tipo específico de suministro e instalación.
+
+Los CPV utilizados en este contrato son los siguientes:
+
+*   39000000-2: Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza
+
+A continuación, se detallan los diferentes lotes que componen el objeto del contrato:
+
+**Lote 1: Suministro e instalación de Mobiliario a Fabricar**
+
+Este lote se centra en el suministro e instalación de mobiliario que requiere fabricación específica.
+
+**Lote 2: Suministro e instalación de Accesorios**
+
+Este lote se enfoca en el suministro e instalación de accesorios complementarios al mobiliario.
+
+**Lote 3: Suministro e instalación de Cortinas Metálicas**
+
+Este lote se ocupa del suministro e instalación de cortinas metálicas.
+
+**Lote 4: Suministro e instalación de Cortinas Fonoabsorbentes**
+
+Este lote se dedica al suministro e instalación de cortinas con propiedades fonoabsorbentes.
+
+**Lote 5: Suministro e instalación de Carril de Paneles**
+
+Este lote se centra en el suministro e instalación de carril de paneles.
+
+**Lote 6: Suministro e instalación de Office**
+
+Este lote se ocupa del suministro e instalación del mobiliario y equipamiento para la zona de office.
+
+**Lote 7: Suministro e instalación de Audiovisuales**
+
+Este lote se dedica al suministro e instalación de equipos audiovisuales.
+--------------------------------------------------------------------------
+USER: Informacion: Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife". Quiero formalismo en este parrafo, ejemplo de introduccion " El órgano de contratación, que actúa en nombre de la Administración Pública de..." y en los puntos suspensivos añadir la comunidad en la que actua y la organizacion contratante que le confiere  facultades
+<context>organizacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife<context>
+Pregunta:quiero que redactes el primer parrafo de la organizacion contratante 
+
+
+RESULT:
+ 2.- ÓRGANO DE CONTRATACIÓN (arts. 61, 63 y 190  LCSP)
+El órgano de contratación, que actúa en nombre de la Administración Pública de la Comunidad Autónoma de Canarias, es el Excmo. Cabildo Insular de Tenerife, concretamente el Consejo de Gobierno Insular del Cabildo Insular de Tenerife, que le confiere facultades.
+
+2.2.- El mencionado órgano tiene facultad para adjudicar el contrato y ostenta las prerrogativas de interpretarlo, resolver las dudas que ofrezca su cumplimiento, modificarlo por razones de interés público, declarar la responsabilidad imputable al contratista a raíz de la ejecución del mismo, suspender dicha  ejecución, acordar la  resolución del contrato y determinar los efectos de ésta, con sujeción a la normativa aplicable.
+Igualmente, el órgano de contratación ostenta las facultades de inspección de las actividades desarrolladas por la persona contratista durante la ejecución del contrato, de conformidad con lo establecido en el segundo párrafo del artículo 190 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Publico (LCSP).2.3.- De conformidad con lo establecido en el artículo 63 de la LCSP, el órgano de contratación dará la información relativa a la presente contratación en el  Perfil del Contratante del Gobierno de Canarias, alojado  en la Plataforma de Contratación del Sector Público  (https://contrataciondelestado.es/wps/portal/plataforma)--------------------------------------------------------------------------
+USER: template
+
+RESULT:
+ 3.- RÉGIMEN JURÍDICO Y JURISDICCIÓN
+3.1.- La contratación a realizar se califica como contrato de suministro de carácter administrativo, de conformidad con lo establecido en los artículos 16 y 25 de la LCSP, quedando sometida a dicha ley, a las normas reglamentarias que la desarrollen, y a las cláusulas contenidas en el presente pliego de cláusulas administrativas particulares y en el de prescripciones técnicas.
+Asimismo, serán de aplicación las demás disposiciones estatales que regulan la contratación del sector público, y las dictadas por la Comunidad Autónoma de Canarias, en el marco de sus respectivas competencias.
+3.2.- Las cuestiones litigiosas que pudieran suscitarse en relación a los actos que se dicten en la contratación a realizar podrán ser objeto de recurso de conformidad con lo dispuesto en la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-administrativa.
+Asimismo, serán susceptibles de recurso potestativo especial en materia de contratación los siguientes actos y decisiones relacionadas en el apartado 2 del artículo 44 de la LCSP:
+a) Los anuncios de licitación, los pliegos de cláusulas administrativas particulares, los pliegos de prescripciones técnicas, así como aquellos documentos contractuales que establezcan las condiciones que deban regir la contratación.
+b) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que éstos decidan directa o indirectamente sobre la adjudicación, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos. Se considerarán actos de trámite que determinan la imposibilidad de continuar el procedimiento los actos de la Mesa de Contratación por los que se acuerde la exclusión de las personas licitadoras.
+c) El acuerdo de adjudicación.
+d) Las modificaciones basadas en el incumplimiento de lo establecido en los artículos 204 y 205 de la LCSP, por entender que la modificación debió ser objeto de una nueva adjudicación.
+3.3.- Los defectos de tramitación que afecten a actos distintos de los contemplados  en el apartado anterior podrán ser puestos de manifiesto por las personas  interesadas al órgano de contratación, a efectos de su corrección con arreglo a derecho, y sin perjuicio de que las irregularidades que les afecten puedan ser alegadas por las personas interesadas al recurrir el acto de adjudicación.
+3.4.- Contra las actuaciones mencionadas en el  artículo 44.2 de la LCSP como susceptibles de ser impugnadas mediante recurso especial, no procederá la interposición de recursos administrativos ordinarios.
+3.5.- La resolución del recurso especial podrá ser objeto de impugnación en la jurisdicción contencioso-administrativa.
+3.6.- No obstante lo anterior, los acuerdos que adopte el órgano de contratación en los procedimientos relativos a las prerrogativas establecidas en el artículo 190 de la LCSP, salvo las modificaciones mencionadas en el artículo 44 apartado 2 letra d) de la LCSP, pondrán fin a la vía administrativa, y serán inmediatamente ejecutivos, pudiendo ser recurridos potestativamente en reposición ante el mismo órgano que los dictó, o ser impugnado mediante recurso contencioso-administrativo, conforme a lo dispuesto en la Ley reguladora de dicha Jurisdicción.
+#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+USER: Informacion: Responder preguntas usando el contexto proporcionado, separando en parrafos los conceptos principal. Si la pregunta es sobre cifras, como presupuestos ofrecerlas en formato tabla hacer un primer parrafo siendo conciso de lo que explica el titulo del contexto En el caso de que el <context> tiene lotes hacer unos epigrafes para lo mismo. Solo si hay más de un lote aclarar si me puedo presentar a varios lotes. Si existe en el <context> listaCPV, añadir en una lista estructurada los cpv con descripcion correspondiente la listaCPV viene ya con su y su descripcion, añadela tal cual antes de añadir la listaCPV, añadir un parrafo introductorio diciendo que los cpv utilizados en este contrato son los siguientes o algo similar. los lotes vienen enumerados, colocarlos en otden ascendente.
+<context>titulo: Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral + listaCPV: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+ Lotes:lote 1: -nombre:Vestuario Monocolor (verde, granate, azul y negro) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 10: -nombre:Cinturones -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 11: -nombre:Ropa térmica -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 12: -nombre:Tubulares y manguitos textil -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 13: -nombre:Gorras/Gorros -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 14: -nombre:Gorras Especiales -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 15: -nombre:Chaqueta reversible -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 16: -nombre:Vestuario diverso -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 17: -nombre:Vestuario ordenanzas -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 2: -nombre:Vestuario Visibilidad Realzada (V.R.) (verde) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 3: -nombre:Vestuario Alta Visibilidad (A.V.) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 4: -nombre:Pantalones de trabajo -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 5: -nombre:Vestuario Incendios -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 6: -nombre:Vestuario Incendios Especial -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 7: -nombre:Vestuario Oficios (Mecánicos, electricistas, cerrajeros) -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 8: -nombre:Vestuario médico/laboratorio -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+lote 9: -nombre:Calcetines -cpvList: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+<context>
+Pregunta:Quiero que me redactes la seccion del objeto del contrato
+
+
+RESULT:
+ I
+DISPOSICIONES GENERALES
+
+1 OBJETO DEL CONTRATO
+El objeto de este contrato es el suministro de vestuario y complementos para el personal de las diferentes áreas del CIT, priorizando la innovación tecnológica en la fabricación para incorporar materiales reciclados o facilitar su reciclaje, fomentando la economía circular y la contratación de personal con dificultades de acceso al mercado laboral.
+
+Los CPV utilizados en este contrato son los siguientes:
+
+*   18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+
+**Lote 1: Vestuario Monocolor (verde, granate, azul y negro)**
+
+Este lote se enfoca en el suministro de vestuario monocolor en las tonalidades verde, granate, azul y negro.
+
+**Lote 2: Vestuario Visibilidad Realzada (V.R.) (verde)**
+
+Este lote se centra en el suministro de vestuario de visibilidad realzada en color verde.
+
+**Lote 3: Vestuario Alta Visibilidad (A.V.)**
+
+Este lote se dedica al suministro de vestuario de alta visibilidad.
+
+**Lote 4: Pantalones de trabajo**
+
+Este lote tiene como objetivo el suministro de pantalones de trabajo.
+
+**Lote 5: Vestuario Incendios**
+
+Este lote se enfoca en el suministro de vestuario específico para incendios.
+
+**Lote 6: Vestuario Incendios Especial**
+
+Este lote se centra en el suministro de vestuario especial para incendios.
+
+**Lote 7: Vestuario Oficios (Mecánicos, electricistas, cerrajeros)**
+
+Este lote se dedica al suministro de vestuario para diferentes oficios como mecánicos, electricistas y cerrajeros.
+
+**Lote 8: Vestuario médico/laboratorio**
+
+Este lote tiene como objetivo el suministro de vestuario para uso médico y de laboratorio.
+
+**Lote 9: Calcetines**
+
+Este lote se enfoca en el suministro de calcetines.
+
+**Lote 10: Cinturones**
+
+Este lote se centra en el suministro de cinturones.
+
+**Lote 11: Ropa térmica**
+
+Este lote se dedica al suministro de ropa térmica.
+
+**Lote 12: Tubulares y manguitos textil**
+
+Este lote tiene como objetivo el suministro de tubulares y manguitos textiles.
+
+**Lote 13: Gorras/Gorros**
+
+Este lote se enfoca en el suministro de gorras y gorros.
+
+**Lote 14: Gorras Especiales**
+
+Este lote se centra en el suministro de gorras especiales.
+
+**Lote 15: Chaqueta reversible**
+
+Este lote se dedica al suministro de chaquetas reversibles.
+
+**Lote 16: Vestuario diverso**
+
+Este lote tiene como objetivo el suministro de vestuario diverso.
+
+**Lote 17: Vestuario ordenanzas**
+
+Este lote se enfoca en el suministro de vestuario para ordenanzas.
+--------------------------------------------------------------------------
+USER: Informacion: Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife". Quiero formalismo en este parrafo, ejemplo de introduccion " El órgano de contratación, que actúa en nombre de la Administración Pública de..." y en los puntos suspensivos añadir la comunidad en la que actua y la organizacion contratante que le confiere  facultades
+<context>organizacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife<context>
+Pregunta:quiero que redactes el primer parrafo de la organizacion contratante 
+
+
+RESULT:
+ 2.- ÓRGANO DE CONTRATACIÓN (arts. 61, 63 y 190  LCSP)
+El órgano de contratación, que actúa en nombre de la Administración Pública de la Comunidad Autónoma de Canarias, es el Excmo. Cabildo Insular de Tenerife, específicamente su Consejo de Gobierno Insular, al que le confiere facultades.
+
+2.2.- El mencionado órgano tiene facultad para adjudicar el contrato y ostenta las prerrogativas de interpretarlo, resolver las dudas que ofrezca su cumplimiento, modificarlo por razones de interés público, declarar la responsabilidad imputable al contratista a raíz de la ejecución del mismo, suspender dicha  ejecución, acordar la  resolución del contrato y determinar los efectos de ésta, con sujeción a la normativa aplicable.
+Igualmente, el órgano de contratación ostenta las facultades de inspección de las actividades desarrolladas por la persona contratista durante la ejecución del contrato, de conformidad con lo establecido en el segundo párrafo del artículo 190 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Publico (LCSP).2.3.- De conformidad con lo establecido en el artículo 63 de la LCSP, el órgano de contratación dará la información relativa a la presente contratación en el  Perfil del Contratante del Gobierno de Canarias, alojado  en la Plataforma de Contratación del Sector Público  (https://contrataciondelestado.es/wps/portal/plataforma)--------------------------------------------------------------------------
+USER: template
+
+RESULT:
+ 3.- RÉGIMEN JURÍDICO Y JURISDICCIÓN
+3.1.- La contratación a realizar se califica como contrato de suministro de carácter administrativo, de conformidad con lo establecido en los artículos 16 y 25 de la LCSP, quedando sometida a dicha ley, a las normas reglamentarias que la desarrollen, y a las cláusulas contenidas en el presente pliego de cláusulas administrativas particulares y en el de prescripciones técnicas.
+Asimismo, serán de aplicación las demás disposiciones estatales que regulan la contratación del sector público, y las dictadas por la Comunidad Autónoma de Canarias, en el marco de sus respectivas competencias.
+3.2.- Las cuestiones litigiosas que pudieran suscitarse en relación a los actos que se dicten en la contratación a realizar podrán ser objeto de recurso de conformidad con lo dispuesto en la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-administrativa.
+Asimismo, serán susceptibles de recurso potestativo especial en materia de contratación los siguientes actos y decisiones relacionadas en el apartado 2 del artículo 44 de la LCSP:
+a) Los anuncios de licitación, los pliegos de cláusulas administrativas particulares, los pliegos de prescripciones técnicas, así como aquellos documentos contractuales que establezcan las condiciones que deban regir la contratación.
+b) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que éstos decidan directa o indirectamente sobre la adjudicación, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos. Se considerarán actos de trámite que determinan la imposibilidad de continuar el procedimiento los actos de la Mesa de Contratación por los que se acuerde la exclusión de las personas licitadoras.
+c) El acuerdo de adjudicación.
+d) Las modificaciones basadas en el incumplimiento de lo establecido en los artículos 204 y 205 de la LCSP, por entender que la modificación debió ser objeto de una nueva adjudicación.
+3.3.- Los defectos de tramitación que afecten a actos distintos de los contemplados  en el apartado anterior podrán ser puestos de manifiesto por las personas  interesadas al órgano de contratación, a efectos de su corrección con arreglo a derecho, y sin perjuicio de que las irregularidades que les afecten puedan ser alegadas por las personas interesadas al recurrir el acto de adjudicación.
+3.4.- Contra las actuaciones mencionadas en el  artículo 44.2 de la LCSP como susceptibles de ser impugnadas mediante recurso especial, no procederá la interposición de recursos administrativos ordinarios.
+3.5.- La resolución del recurso especial podrá ser objeto de impugnación en la jurisdicción contencioso-administrativa.
+3.6.- No obstante lo anterior, los acuerdos que adopte el órgano de contratación en los procedimientos relativos a las prerrogativas establecidas en el artículo 190 de la LCSP, salvo las modificaciones mencionadas en el artículo 44 apartado 2 letra d) de la LCSP, pondrán fin a la vía administrativa, y serán inmediatamente ejecutivos, pudiendo ser recurridos potestativamente en reposición ante el mismo órgano que los dictó, o ser impugnado mediante recurso contencioso-administrativo, conforme a lo dispuesto en la Ley reguladora de dicha Jurisdicción.
