@@ -8,4 +8,4 @@ def raiz():
 
 @router.get("/saludo")
 def saludo():
-    return {"mensaje": "¡Hola desde general!"}
+    return {"mensaje": "¡Hola desde la ruta general!"}

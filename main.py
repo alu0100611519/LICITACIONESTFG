@@ -1,24 +1,17 @@
 import sys
+import uvicorn
 from fastapi import FastAPI
 from datetime import datetime
 from app.domain.uses_cases.parse_atom_use_case import ParseAtomEntriesUseCase
-from app.domain.uses_cases.gemini_redactor_use_case import GeminiRedactorUseCase
-import uvicorn
+from app.infrastructure.controllers import general_routes
+from app.infrastructure.controllers import gemini_routes
+
 
 app = FastAPI()
 
 # --- API Endpoints ---
-@app.get("/")
-def read_root():
-    return {"mensaje": "API en funcionamiento"}
-
-@app.get("/generartodo")
-def saludo():
-    return {"mensaje": "¡Hola desde la API en Python!"}
-
-@app.get("/objetivoContratacion")
-def hora_actual():
-    return {"hora_actual": datetime.now().isoformat()}
+app.include_router(gemini_routes.router)
+app.include_router(general_routes.router)
 
 # --- Función especial si se ejecuta con "train" ---
 def entrenar_modelo():

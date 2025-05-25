@@ -5,9 +5,15 @@ class GeminiRedactorUseCase:
     def __init__(self):
         self.service = GeminiRedactorService()
 
+    def generate_redaction(self, user_context):
+        resutl = "";
+        return 
+
+
     # genera la clausula de Objetivo del contrato
-    def generate_contract_objetive(self, user_context):
+    def generate_contract_objetive(self):
         result = "" 
+        user_context = data.get("objetoContrato")
         json = self.service.take_template("suministro_abierto.json")
         result = json.get("disposicion_generales")
         result += json.get("objective_title")
@@ -15,7 +21,7 @@ class GeminiRedactorUseCase:
 
         result += self.service.generar_texto(prompt)
 
-        return f"USER: {prompt}\n\nRESULT:\n {result}"
+        return result
     
     def generate_contract_organization(self, user_context):
         result = ""
@@ -26,7 +32,7 @@ class GeminiRedactorUseCase:
         result += "\n"
         result += json.get("party_22")
         result += json.get("party_23")
-        return f"USER: {prompt}\n\nRESULT:\n {result}"
+        return result
     
     def generate_legal_regime(self, user_context, params_context):
         result = ""
@@ -40,7 +46,7 @@ class GeminiRedactorUseCase:
             result += json.get("party_32_over_100")
         else:
             result += json.get("party_32_under_100")        
-        return f"USER: template\n\nRESULT:\n {result}"
+        return result
     
     def generate_contract_fitness(self, user_context):
         return None
