@@ -10,5 +10,4 @@ uvicorn
 python-dotenv 
 lxml
 PyPDF2
-
 google.generativeai

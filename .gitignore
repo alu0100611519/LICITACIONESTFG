@@ -2,7 +2,7 @@
 *.pyc
 *.pyo
 *.pyd
-/miEntorno/**/*
+/entorno/**/*
 *.json
 *.bin
 /t5_model/**/*

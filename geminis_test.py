@@ -1,4 +1,5 @@
 from app.domain.uses_cases.gemini_redactor_use_case import GeminiRedactorUseCase
+from app.infrastructure.services.gemini_redactor_service import GeminiRedactorService
 import os
 import json
 import time
@@ -9,6 +10,17 @@ OUTPUTH_TRAINING_PATH = "prueba.txt"
 
 
 if __name__ == "__main__":
+    geminis_redactor_service = GeminiRedactorService()
+
+    if os.path.exists(OUTPUTH_TRAINING_PATH):
+        modo = "a"
+    else:
+        modo = "w"
+    with open(OUTPUTH_TRAINING_PATH, modo, encoding='utf-8') as archivo:
+        archivo.write("#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####\n")
+        archivo.write(geminis_redactor_service.ask_template())
+
+    """
     use_case = GeminiRedactorUseCase()
     with open(MODEL_TRAINING_PATH, "r", encoding="utf-8") as file:
         data_json = json.load(file)
@@ -36,4 +48,4 @@ if __name__ == "__main__":
                 index = 0
                 print("Esperando 60 segundos para evitar el límite de 15 preguntas por minuto...")
                 time.sleep(66)
-                print("Continuando...")
+                print("Continuando...")"""

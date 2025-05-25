@@ -1,8 +1,10 @@
 import google.generativeai as genai
+import base64
 from dotenv import load_dotenv
 import os
 import yaml
 import json
+import time
 
 #Cargamos las variables de entorno
 
@@ -80,3 +82,71 @@ class GeminiRedactorService:
             return response.text
         except Exception as e:
             return f"Ocurrió un error al interactuar con la API: {e}"
+           
+    def encode_pdf_to_base64(self,pdf_path):
+        with open(pdf_path, "rb") as pdf_file:
+            return base64.b64encode(pdf_file.read()).decode("utf-8")
+    
+    def ask_template(self):
+        """
+        Esta funcion es un ejemplo de como se puede usar la plantilla para generar un texto
+        """
+        pdf_path = os.path.join(os.path.join("resources/template/suministro_abierto.pdf"))
+        #pdf_base64 = self.encode_pdf_to_base64(pdf_path)
+        #print("PDF Base64:", pdf_base64[:50], "...")
+
+        # Selecciona el modelo a usar (Gemini Pro para texto)
+        model = genai.GenerativeModel('gemini-2.0-flash')
+
+        # Sube el archivo
+        print(f"Subiendo archivo: {pdf_path}...")
+        uploaded_file = genai.upload_file(
+            path=pdf_path,
+            display_name="Mi Documento PDF para Gemini Flash",
+            mime_type="application/pdf"
+        )
+
+        print(f"Archivo subido. ID: {uploaded_file.name}")
+        print(f"URI del archivo: {uploaded_file.uri}")
+
+        # Opcional pero recomendado: espera a que el archivo esté procesado (READY)
+        # Es una buena práctica asegurarse de que el archivo esté listo antes de usarlo
+        while uploaded_file.state.name == 'PROCESSING':
+            print('Procesando archivo... Esperando 10 segundos.')
+            time.sleep(10)
+            uploaded_file = genai.get_file(uploaded_file.name) # Actualiza el estado
+        if uploaded_file.state.name == 'FAILED':
+            raise Exception(f'Error al procesar el archivo: {uploaded_file.name}')
+        else:
+            print('Archivo listo para usar.')
+
+        # Guarda la URI para el siguiente paso
+        file_uri_to_use = uploaded_file.uri
+
+
+        # Prepara el contenido de la solicitud
+        # El tipo MIME para PDF es 'application/pdf'
+        contents = [
+            {
+                "parts": [
+                    {"file_data": {"mime_type": "application/pdf", "uri": file_uri_to_use}},
+                    {"text": "Quiero la salida del texto "}
+                ]
+            }
+        ]
+
+        # Genera la respuesta
+        response = model.generate_content(contents)
+
+        print(response.text)
+
+        # Opcional: Si quieres borrar el archivo de la Files API después de usarlo
+        genai.delete_file(uploaded_file.name) # Usa uploaded_file.name, no uploaded_file.id
+        print(f"Archivo {uploaded_file.name} eliminado de la Files API.")
+
+        return response.text
+            
+            
+
+
+
