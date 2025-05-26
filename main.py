@@ -11,7 +11,7 @@ app = FastAPI()
 
 # --- API Endpoints ---
 app.include_router(gemini_routes.router)
-app.include_router(general_routes.router)
+#app.include_router(general_routes.router)
 
 # --- Función especial si se ejecuta con "train" ---
 def entrenar_modelo():

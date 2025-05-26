@@ -87,10 +87,11 @@ class GeminiRedactorService:
         with open(pdf_path, "rb") as pdf_file:
             return base64.b64encode(pdf_file.read()).decode("utf-8")
     
-    def ask_template(self):
+    def ask_template(self, request):
         """
         Esta funcion es un ejemplo de como se puede usar la plantilla para generar un texto
         """
+        # suponemos que tenemos una carga de plantilla ( realizar en otro servicio).
         pdf_path = os.path.join(os.path.join("resources/template/suministro_abierto.pdf"))
         #pdf_base64 = self.encode_pdf_to_base64(pdf_path)
         #print("PDF Base64:", pdf_base64[:50], "...")
@@ -130,7 +131,7 @@ class GeminiRedactorService:
             {
                 "parts": [
                     {"file_data": {"mime_type": "application/pdf", "uri": file_uri_to_use}},
-                    {"text": "Quiero la salida del texto "}
+                    {"text": request}
                 ]
             }
         ]
@@ -138,7 +139,7 @@ class GeminiRedactorService:
         # Genera la respuesta
         response = model.generate_content(contents)
 
-        print(response.text)
+        #print(response.text)
 
         # Opcional: Si quieres borrar el archivo de la Files API después de usarlo
         genai.delete_file(uploaded_file.name) # Usa uploaded_file.name, no uploaded_file.id

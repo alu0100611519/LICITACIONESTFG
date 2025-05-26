@@ -16,3 +16,109 @@ DECLARO BAJO MI RESPONSABILIDAD
 Enlace al modelo DEUC, aprobado por Reglamento UE 2016/7, de 5 de enero de 2016 (DOUE n.º 3/16, de 6 de enero de 2016)
 
 Lugar, fecha y firma del declarante.
+#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+Este documento es un modelo de pliego para la contratación de suministros a través de un procedimiento abierto de adjudicación, abarcando desde las disposiciones generales hasta la formalización del contrato.
+
+### 1. Objeto del Contrato
+
+El objeto del contrato es la renovación de licencias de VMware.
+
+Los CPV utilizados en este contrato son los siguientes:
+
+*   **48000000-8:** Paquetes de software y sistemas de información
+
+### Lotes
+
+Este contrato se divide en un único lote:
+
+*   **Lote 1: 48000000-Paquetes de software y sistemas de información.**#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+A continuación, se muestra una posible redacción de la sección "1. Objeto del Contrato" del pliego, tomando en cuenta el contexto proporcionado:
+
+**1. OBJETO DEL CONTRATO** (arts. 16, 28, 99 y 123, 124 y D.A. Cuarta de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero, en adelante LCSP).
+
+1.1.- El objeto del contrato será la renovación de licencias de VMware, con el fin de [especificar el fin de la renovación de las licencias, por ejemplo, mantener la operatividad de los sistemas, asegurar el soporte técnico, etc.].
+
+La ejecución del objeto del contrato deberá adecuarse a las siguientes prescripciones técnicas: [insertar las prescripciones técnicas o indicar que se encuentran en un anexo]. [a las prescripciones técnicas anexas que tienen carácter contractual].
+
+Dicho objeto corresponde al código 48000000-8 de la nomenclatura Vocabulario Común de Contratos (CPV) de la Comisión Europea: Paquetes de software y sistemas de información.
+
+1.2.- La contratación se fracciona en un lote:
+
+*   Lote 1: Renovación de licencias de VMware.
+
+    El objeto de este lote es la renovación de licencias de VMware (Paquetes de software y sistemas de información, CPV 48000000-8), constituyendo una unidad funcional susceptible de realización independiente.#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+DISPOSICIONES GENERALES
+
+1.- OBJETO DEL CONTRATO (arts. 16, 28, 99 у 123, 124 y D.A. Cuarta de la Ley
+9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen
+al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo
+2014/23/UE у 2014/24/UE, de 26 de febrero, en adelante LCSP).
+
+1.1.- El objeto del contrato será la renovación de las licencias de VMware, con el fin de garantizar la continuidad del servicio.
+
+La ejecución del objeto del contrato deberá adecuarse a las siguientes
+prescripciones técnicas: [...] [a las prescripciones técnicas anexas que tienen carácter
+contractual ]
+
+Dicho objeto corresponde al código 48000000-8 de la nomenclatura Vocabulario Común
+de Contratos (CPV) de la Comisión Europea.
+
+[[EN EL CASO DE FRACCIONAMIENTO EN LOTES:
+
+1.2.- La contratación se fracciona en los lotes que se detallan [a continuación,]
+[en las prescripciones técnicas anexas,] constituyendo el objeto de cada lote una
+unidad funcional susceptible de realización independiente. 11
+
+[[SI PROCEDIESE LA RESERVA DE ALGÚN LOTE O LOTES, O UN PORCENTAJE
+DE LOS MISMOS, A CENTROS ESPECIALES DE EMPLEO O A EMPRESAS DE
+INSERCIÓN (ver Disp. Adic. 4ª LCSP), añadir :
+
+La adjudicación [del/los lotes ... ] [ del .. % del lote ...] se reserva para [....].
+
+]]
+
+[[AUNQUE LA NATURALEZA DEL CONTRATO
+PERMITIERA EL
+FRACCIONAMIENTO EN LOTES, PERO ÉSTE NO FUERA PROCEDENTE POR
+ALGUNO DE LOS MOTIVOS DEL ART. 99.3 DE LA LCSP, sustituir la cláusula
+anterior por la que proceda:
+
+[1.2.- No procede la división en lotes del objeto del contrato, ya que ello
+restringiría injustificadamente la competencia, tal como resulta del informe previo
+emitido por el Servicio de Defensa de la Competencia de la Consejería de ...]
+
+[1.2.-No procede la división en lotes del objeto del contrato, ya que tal división
+dificultaría la correcta ejecución del contrato desde el punto de vista técnico]
+
+[1.2.-No procede la división en lotes del objeto del contrato, ya que la naturaleza
+de dicho objeto hace necesaria, para su correcta ejecución, la coordinación de las#### PRUEBA DE REDACCION (A PARTIR DE PLANTILLA) ####
+```text
+MODELO DE PLIEGO PARA LA CONTRATACIÓN DE SUMINISTROS, POR
+PROCEDIMIENTO ABIERTO DE ADJUDICACIÓN
+
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES PARA LA
+CONTRATACIÓN DE UN SUMINISTRO, MEDIANTE PROCEDIMIENTO ABIERTO DE
+ADJUDICACIÓN Y TRAMITACIÓN ORDINARIA.
+
+I
+DISPOSICIONES GENERALES
+
+1.- OBJETO DEL CONTRATO (arts. 16, 28, 99 у 123, 124 y D.A. Cuarta de la Ley
+9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen
+al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo
+2014/23/UE у 2014/24/UE, de 26 de febrero, en adelante LCSP).
+
+1.1.- El objeto del contrato será la renovación de licencias de VMware, con el fin de mantener operativo el entorno virtualizado.
+
+La ejecución del objeto del contrato deberá adecuarse a las prescripciones técnicas anexas que tienen carácter contractual.
+
+Dicho objeto corresponde al código 48000000-8 de la nomenclatura Vocabulario Común de Contratos (CPV) de la Comisión Europea.
+
+[[EN EL CASO DE FRACCIONAMIENTO EN LOTES:
+1.2.- La contratación se fracciona en los lotes que se detallan a continuación, constituyendo el objeto de cada lote una unidad funcional susceptible de realización independiente:
+
+Lote 1:
+Nombre: Paquetes de software y sistemas de información.
+CPV: 48000000-8: Paquetes de software y sistemas de información.
+]]
+```

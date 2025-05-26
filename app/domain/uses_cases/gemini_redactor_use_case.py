@@ -63,5 +63,13 @@ class GeminiRedactorUseCase:
     
     def generate_contract_fitness(self, user_context):
         return None
+    
+    def ask_for_template(self, context, question):
+        """
+        Genera un texto a partir de una plantilla predefinida
+        """
+        request = f"<context>{context}<context>\nPregunta: {question}\n"
+        return self.gemini_redactor_service.ask_template(request)
+
 
 
