@@ -1,5 +1,5 @@
 import os
-from app.infrastructure.services.dataset_service import DataSetService
+from app.train.services.dataset_service import DataSetService
 
 
 MODEL_TRAINING_PATH = "collection/"
