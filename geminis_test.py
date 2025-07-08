@@ -1,4 +1,4 @@
-from app.domain.uses_cases.gemini_redactor_use_case import GeminiRedactorUseCase
+from app.domain.uses_cases.api.gemini_redactor_use_case import GeminiRedactorUseCase
 from app.infrastructure.services.gemini_redactor_service import GeminiRedactorService
 import os
 import json

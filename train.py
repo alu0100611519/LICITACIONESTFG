@@ -1,7 +1,7 @@
 import sys 
 import uvicorn
 from fastapi import FastAPI
-from app.train.uses_cases.parse_atom_use_case import ParseAtomEntriesUseCase
+from app.domain.uses_cases.train.parse_atom_use_case import ParseAtomEntriesUseCase
 
 
 # --- Función especial si se ejecuta con "train" ---

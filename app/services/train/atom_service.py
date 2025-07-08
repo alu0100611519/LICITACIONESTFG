@@ -1,4 +1,4 @@
-from app.train.utils.parser.atom_parser import AtomParser
+from app.utils.parser.atom_parser import AtomParser
 import xml.etree.ElementTree as ET
 import os 
 from dotenv import load_dotenv

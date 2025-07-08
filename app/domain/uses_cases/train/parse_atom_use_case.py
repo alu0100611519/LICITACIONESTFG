@@ -1,4 +1,4 @@
-from app.train.services.atom_service import AtomService
+from app.services.train.atom_service import AtomService
 
 
 
