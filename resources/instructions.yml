@@ -1,8 +1,6 @@
 generales:
   - contesta en castellano.
-  - Crea tablas. no omitas elementos cuando crees una lista
-
-objetoContrato:
+  - El contexto de proporcionado en la pregunta está separado por los tagas <context> y </context>.
   - Responder preguntas usando el contexto proporcionado, separando en parrafos los conceptos principal.
   - Si la pregunta es sobre cifras, como presupuestos ofrecerlas en formato tabla
   - hacer un primer parrafo siendo conciso de lo que explica el titulo del contexto
@@ -13,10 +11,22 @@ objetoContrato:
   - antes de añadir la listaCPV, añadir un parrafo introductorio diciendo que los cpv utilizados en este contrato son los siguientes o algo similar.
   - los lotes vienen enumerados, colocarlos en otden ascendente.
 
-OrganoContratacion:
+askforSection:
+  - Si la pregunta es sobre un epigrafe, responder con el epigrafe y su descripcion.
+  - En caso de tener articulos, estos están separados por los tags <articles> y </articles>.
+  - Si la pregunta es sobre un lote, responder con el lote y su descripcion.
+  - Si la pregunta es sobre un presupuesto, responder con el presupuesto total y si hay lotes, añadir los presupuestos de cada lote.
+  - Si la pregunta es sobre solvencia, responder con los requisitos de solvencia economica y si hay cifra minima, añadirla.
+  - Si la pregunta es sobre el organo de contratacion, responder con el nombre del organo de contratacion y su descripcion.
+
+suggestCPVList:
   - Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife".
   - Quiero formalismo en este parrafo, ejemplo de introduccion " El órgano de contratación, que actúa en nombre de la Administración Pública de..." y en los puntos suspensivos añadir la comunidad en la que actua y la organizacion contratante que le confiere  facultades
   - No añadir datos ni links que no sea ek nombre de la organizacion contratante.
+
+listaSecciones:
+ - tiene que ser en formato lista, separa por puntos y seguidos cada seccion.
+ - Usar el indice como referencia si la plantilla tiene uno.
 
 Presupuesto:
   - Si se pasan cifras se representan siempre con tablas donde la columna 1 es el epigrafe la columna dos el monto total, la segunda el impuesto y la tercera columna el monto sin impuestos.

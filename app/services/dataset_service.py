@@ -3,7 +3,7 @@ import pdfplumber
 import json
 import logging
 
-from app.domain.helper.epigrafe_loader import EpigrafeLoader
+from app.utils.helper.epigrafe_loader import EpigrafeLoader
 logging.getLogger("pdfminer").setLevel(logging.ERROR)
 
 log_filename = "log.txt" # fichero que indica si paso algo al obtener el pdf
