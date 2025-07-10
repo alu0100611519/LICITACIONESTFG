@@ -18,7 +18,7 @@ class EpigrafeLoader:
         for full_code, descripcion in self.epigrafes.items():
             #print(f"Full code: {full_code}")
             if full_code.startswith(codigo):
-                return f"- {full_code}: {descripcion}\n"
+                return f" {full_code}: {descripcion}"
         return "ERROR"
 
     def all_codigos(self):

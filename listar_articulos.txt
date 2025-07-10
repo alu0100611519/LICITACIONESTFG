@@ -1,0 +1,106 @@
+None
+----------
+Tiempo total de ejecución: 15.44 segundos
+--------------------------
+None
+----------
+Tiempo total de ejecución: 18.86 segundos
+--------------------------
+None
+----------
+Tiempo total de ejecución: 47.44 segundos
+--------------------------
+None
+----------
+Tiempo total de ejecución: 14.59 segundos
+--------------------------
+1. arts. 16
+2. art. 28
+3. art. 99
+4. art. 123
+5. art. 124
+6. D.A. Cuarta
+
+----------
+Tiempo total de ejecución: 17.62 segundos
+--------------------------
+artículo 16, artículo 28, artículo 99, artículo 123, artículo 124.
+
+----------
+Tiempo total de ejecución: 14.24 segundos
+--------------------------
+[16, 28, 99, 123, 124]
+
+----------
+Tiempo total de ejecución: 13.66 segundos
+--------------------------
+[16, 28, 99, 123, 124]
+
+----------
+Tiempo total de ejecución: 14.76 segundos
+--------------------------
+[art. 16, art. 28, art. 99, art. 123, art. 124]
+----------
+Tiempo total de ejecución: 17.03 segundos
+--------------------------
+Ningún artículo referenciado.
+----------
+Tiempo total de ejecución: 24.58 segundos
+--------------------------
+[art. 16, art. 28, art. 99, art. 123, art. 124]
+----------
+Tiempo total de ejecución: 14.27 segundos
+--------------------------
+[art. 16, art. 28, art. 99, art. 123, art. 124]
+
+----------
+Tiempo total de ejecución: 15.09 segundos
+--------------------------
+[16, 28, 99, 123, 124]
+
+----------
+Tiempo total de ejecución: 13.86 segundos
+--------------------------
+[16, 28, 99, 123, 124]
+----------
+Tiempo total de ejecución: 14.25 segundos
+--------------------------
+[16, 28, 99, 123, 124]
+----------
+Tiempo total de ejecución: 13.58 segundos
+--------------------------
+[16, 28, 99, 123, 124]
+----------
+Tiempo total de ejecución: 13.95 segundos
+--------------------------
+[16, 28, 99, 123, 124]
+----------
+Tiempo total de ejecución: 13.86 segundos
+--------------------------
+El anuncio se refiere a un contrato de suministro de vestuario y complementos para el personal del CIT, con un enfoque en la innovación tecnológica para la fabricación con materiales reciclados y el fomento de la economía circular, así como la contratación de personal con dificultades de acceso al mercado laboral.
+
+A continuación, se detallan los aspectos clave del contrato:
+
+**Información General**
+
+*   **Título:** Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral.
+*   **Entidad Contratante:** Consejo de Gobierno Insular del Cabildo Insular de Tenerife
+*   **ID de la Plataforma:** 31072730151033
+*   **Tipo de Contrato:** Suministro (1)
+*   **Subtipo de Contrato:** (2)
+
+**Datos de Contacto**
+
+*   **Teléfono:** 901501901
+*   **Email:** licitaciones@tenerife.es
+
+**Identificadores**
+
+*   **ID Carpeta del Contrato:** E2023006355
+
+Los CPV utilizados en este contrato son los siguientes:
+
+*   18100000 - Prendas de vestir profesionales, ropa de trabajo y accesorios
+----------
+Tiempo total de ejecución: 2.79 segundos
+--------------------------

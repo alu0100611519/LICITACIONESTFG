@@ -1,0 +1,290 @@
+Aquí está la lista de secciones del texto, con títulos que parecen relevantes del documento, en relación a las "secciones":
+
+**I. Disposiciones generales**
+*   **1.- Objeto del contrato**
+*   **2.- Órgano de contratación**
+*   **3.- Régimen jurídico y jurisdicción**
+
+**II. Adjudicación del contrato**
+*   **11.- Procedimiento de adjudicación**
+*   **12.- Criterios de adjudicación**
+*   **13.- Presentación de proposiciones**
+*   **14.- Garantía provisional**
+*   **15.- Contenido de las proposiciones**
+*   **16.- Mesa de contratación**
+*   **17.- Calificación de la documentación general**
+*   **18.- Apertura de proposiciones y propuesta de adjudicación**
+*   **19.- Adjudicación**
+
+...
+
+**III. Formalización del contrato**
+*   **22.- Formalización del contrato**
+
+**IV. Ejecución del contrato**
+*   **23.- Responsable supervisor de los suministros objeto del contrato**
+*   **24.- Obligaciones de la persona contratista**
+*   **25.- Ejecución del contrato**
+*   **26.- Recepción del suministro**
+*   **27.- Gastos e impuestos por cuenta de la persona contratista**
+*   **28.- Abonos al contratista**
+
+**V. Subcontratación, cesión del contrato y sucesión en la persona del contratista**
+*   **30.- Subcontratación**
+*   **31.- Cesión del contrato**
+*   **32.- Sucesión en la persona del contratista**
+
+**VI. Modificación de contrato**
+*   **33.- Modificación del contrato**
+*   **34.- Suspensión del contrato**
+
+**VII. Finalización del contrato**
+*   **35.- Resolución y extinción del contrato**
+*   **36.- Plazo de garantía**
+*   **37.- Devolución o cancelación de la garantía definitiva**
+----------
+Tiempo total de ejecución: 25.91 segundos
+Aquí hay una lista de secciones y subsecciones de la plantilla de documento proporcionada:
+
+**I. DISPOSICIONES GENERALES**
+
+*   Objeto del contrato
+*   Órgano de contratación
+*   Régimen jurídico y jurisdicción
+
+**II. ADJUDICACIÓN DEL CONTRATO**
+
+*   Procedimiento de adjudicación
+*   Criterios de adjudicación
+    *   Criterios cualitativos
+    *   Criterios económicos
+*   Presentación de proposiciones
+*   Garantía provisional
+*   Contenido de las proposiciones
+*   Mesa de contratación
+*   Calificación de la documentación general
+*   Apertura de proposiciones y propuesta de adjudicación
+*   Adjudicación
+
+**III. FORMALIZACIÓN DEL CONTRATO**
+
+*   Formalización del contrato
+
+**IV. EJECUCIÓN DEL CONTRATO**
+
+*   Responsable supervisor de los suministros objeto del contrato
+*   Obligaciones de la persona contratista
+*   Ejecución del contrato
+*   Recepción del suministro
+*   Gastos e impuestos por cuenta de la persona contratista
+*   Abonos al contratista
+
+**V. SUBCONTRATACIÓN, CESIÓN DEL CONTRATO Y SUCESIÓN EN LA PERSONA DEL CONTRATISTA**
+
+*   Subcontratación
+*   Cesión del contrato
+*   Sucesión en la persona del contratista
+
+**VI. MODIFICACIÓN DE CONTRATO**
+
+*   Modificación del contrato
+
+**VII. FINALIZACIÓN DEL CONTRATO**
+
+*   Resolución y extinción del contrato
+*   Plazo de garantía
+*   Devolución o cancelación de la garantía definitiva
+
+**ANEXOS**
+
+*   Modelo de proposición económica
+*   Modelo de contrato administrativo de suministros
+*   Modelo de declaración responsable
+
+Además, hay múltiples cláusulas y apartados condicionales (marcados con "SI..."), que se deben incluir o sustituir dependiendo de las circunstancias específicas del contrato.
+
+----------
+Tiempo total de ejecución: 178.95 segundos
+--------------------------
+Okay, here's a structured breakdown of the template, attempting to follow the nested structure apparent in the OCR:
+
+**I. DISPOSICIONES GENERALES**
+
+*   1.- OBJETO DEL CONTRATO
+    *   1.1.- \[...\]
+    *   [[EN EL CASO DE FRACCIONAMIENTO EN LOTES:
+        *   1.2.- \[...\]
+    *   [[SI PROCEDIESE LA RESERVA DE ALGÚN LOTE O LOTES, O UN PORCENTAJE DE LOS MISMOS, A CENTROS ESPECIALES DE EMPLEO O A EMPRESAS DE INSERCIÓN...
+    *   [[AUNQUE LA NATURALEZA DEL CONTRATO PERMITIERA EL FRACCIONAMIENTO EN LOTES, PERO ÉSTE NO FUERA PROCEDENTE...
+*   2.- ÓRGANO DE CONTRATACIÓN
+    *   2.1.- \[...\]
+    *   2.2.- \[...\]
+    *   2.3.- \[...\]
+*   3.- RÉGIMEN JURÍDICO Y JURISDICCIÓN
+    *   3.1.- \[...\]
+    *   \[EN EL SUPUESTO DE COFINANCIACIÓN CON FONDOS EUROPEOS,...
+*   4.- APTITUD PARA CONTRATAR
+    *   4.1.- Capacidad de obrar
+    *   4.2.- Prohibiciones de contratar
+    *   4.3.- Solvencia
+        *   4.3.1. Solvencia económica y financiera
+        *   4.3.2. Solvencia técnica o profesional
+        *   4.3.3- Utilización de medios externos para acreditar la solvencia
+    *   [[SI SE CONSIDERA OPORTUNO REFORZAR LOS REQUISITOS DE SOLVENCIA, ...
+*   5.- PRESUPUESTO BASE DE LICITACIÓN
+    *   \[SUMINISTROS CON ENTREGA DE TODOS LOS BIENES A SUMINISTRAR, EN UN SOLO ACTO...
+        *   5.1.- \[...].
+    *   [[ SUMINISTROS CON ENTREGAS PARCIALES DE TODOS LOS BIENES A SUMINISTRAR, Y FIJACIÓN DE PRESUPUESTOS UNITARIOS:
+        *   5.1.- \[...].
+    *   \[[SUMINISTROS EN FUNCIÓN DE NECESIDADES (DA 33 LCSP):
+        *   5.1.- \[...].
+        *   5.2.- \[...].
+    *   [[SI FUERA PROCEDENTE,...
+*   6.- EXISTENCIA DE CRÉDITO PRESUPUESTARIO
+    *   \[EN CASO DE COFINANCIACIACIÓN COMUNITARIA...
+    *   [CUANDO NO SEA POSIBLE LA FIJACIÓN PREVIA DEL PRESUPUESTO DE LICITACIÓN...
+*   7.- VALOR ESTIMADO DEL CONTRATO
+    *   7.1.- \[...].
+    *   7.2.- \[...].
+*   8.- PRECIO DEL CONTRATO
+    *   8.1.- \[...].
+    *   [[CUANDO EL OBJETO DEL CONTRATO SEA EL ARRENDAMIENTO DE BIENES O PRODUCTOS...
+    *   8.2.- \[...].
+    *   [[CUANDO EXISTAN RAZONES TÉCNICAS O ECONÓMICAS...
+*   9.- REVISIÓN DEL PRECIO DEL CONTRATO Y OTRAS VARIACIONES DEL MISMO
+    *   \[9.1.]- \[...].
+    *   [[EN LOS SUMINISTROS DE EQUIPAMIENTO DE LAS ADMINISTRACIONES PÚBLICAS...
+    *   [[SI LA NATURALEZA Y EL OBJETO DEL SUMINISTRO LO PERMITEN...
+    *   [[TRATANDOSE DE SUMINISTROS CON ENTREGA DE UN NÚMERO CERRADO DE UNIDADES...
+*   10 PLAZO DE DURACIÓN DEL CONTRATO Y DE EJECUCIÓN DE LA PRESTACIÓN
+    *   \[10.1.-] \[...].
+    *   [[EN LOS CONTRATOS DE SUMINISTRO DE PRESTACIÓN SUCESIVA...
+    *   [SI LA CONTRATACIÓN INCLUYE EL MANTENIMIENTO...
+    *   [EN EL SUPUESTO DE SUMINISTROS EN FUNCION DE NECESIDADES...
+
+**II. ADJUDICACIÓN DEL CONTRATO**
+
+*   11.- PROCEDIMIENTO DE ADJUDICACIÓN
+    *   11.1.- \[...].
+    *   [EN CONTRATOS NO SUJETOS A REGULACIÓN ARMONIZADA EN LOS QUE SE HAYA DECLARADO LA URGENCIA...
+    *   [EN CONTRATOS SUJETOS A REGULACIÓN ARMONIZADA EN QUE SE HAYA PUBLICADO UN ANUNCIO DE INFORMACIÓN PREVIA...
+    *   11.2.- \[...].
+*   12.- CRITERIOS DE ADJUDICACIÓN
+    *   [[REGLA GENERAL, utilización de una pluralidad de criterios de adjudicación...
+        *   12.1.- \[...].
+            *   12.1.1.- Criterios cualitativos:
+            *   12.1.2.- Criterios económicos:
+    *   [[EXCEPCIÓN JUSTIFICADA, utilización de un solo criterio de adjudicación...
+        *   12.2.- \[...].
+    *   [[SI SE CONSIDERA OPORTUNO, PODRÁ UTILIZARSE EL SIGUIENTE PROCEDIMIENTO:
+        *   12.3.- \[...].
+*   13. PRESENTACIÓN DE PROPOSICIONES
+    *   13.1.- \[...].
+    *   13.2.- \[...].
+    *   [CUANDO NO HAYA LICITACIÓN ELECTRÓNICA, POR DARSE ALGUNO SUPUESTOS PREVISTOS...
+    *   [CUANDO SE DE ALGUNO DE LOS SUPUESTOS PREVISTOS EN EL ART. 138.2 DE LA LCSP...
+    *   [SI SE ESTIMA CONVENIENTE,...
+    *   13.4. - \[...].
+    *   [SI SE CONSIDERA CONVENIENTE, ...
+    *   13.5.- \[...].
+    *   [EN EL SUPUESTO DE QUE SE ADMITAN VARIANTES EN LA PROPOSICIÓN...
+    *   13.6.- \[...].
+    *   13.7.- \[...].
+    *   13.8.- \[...].
+    *   13.9.- \[...].
+*   14.- GARANTÍA PROVISIONAL
+    *   [[EN EL CASO DE QUE SE CONSIDERARA CONVENIENTE EXIGIR GARANTÍA PROVISIONAL...
+*   15.- CONTENIDO DE LAS PROPOSICIONES
+    *   \[CUANDO SE DE ALGUNO DE LOS SUPUESTOS PREVISTOS EN LA DISP. ADIC. DECIMOQUINTA...
+        *   15.1.- ARCHIVO ELECTRÓNICO
+        *   15.1.1.- \[...].
+        *   15.1.2.- \[...].
+        *   [ SI SE EXIGEN REQUISITOS DE SOLVENCIA DISTINTOS PARA CADA LOTE...
+        *   15.1.3.- \[...].
+        *   15.1.4.- \[...].
+        *   15.1.5.- \[...].
+        *   15.1.6.- \[...].
+        *   [[ SI EL CONTRATO VA A EJECUTARSE EN ESPAÑA...
+        *   [[SI, EXCEPCIONALMENTE Y POR RAZONES DE INTERÉS PUBLICO, SE CONSIDERÓ NECESARIO...
+        *   [[15.1.9.- Otros documentos [...]]]
+        *   [[CUANDO NO HAYA LICITACIÓN ELECTRÓNICA, POR DARSE ALGUNO SUPUESTOS PREVISTOS...
+        *   [[PRIMERA ALTERNATIVA: CUANDO LA VALORACIÓN DE TODOS LOS CRITERIOS DE ADJUDICACIÓN...
+        *   Ν.° 2 15.2.- ARCHIVO ELECTRÓNICO
+            *   15.2.1.- \[...].
+            *   15.2.2.- \[...].
+        *   [[SEGUNDA ALTERNATIVA: SI SE ESTABLECEN CRITERIOS QUE NO PUEDAN VALORARSE OBJETIVAMENTE...
+        *   N°2 15.2.- ARCHIVO ELECTRÓNICO
+        *   N°3 15.3.- ARCHIVO ELECTRÓNICO
+        *   [[TERCERA ALTERNATIVA: SI SE HA ESTABLECIDO EL PRECIO COMO ÚNICO CRITERIO DE ADJUDICACIÓN
+*   16.- MESA DE CONTRATACIÓN
+    *   \[ CUANDO PARA LA ADJUDICACIÓN DEL CONTRATO HAYAN DE TENERSE EN CUENTA CRITERIOS DISTINTOS AL DEL PRECIO...
+    *   [[ SI A LOS CRITERIOS DE ADJUDICACIÓN VALORABLES MEDIANTE UN JUICIO DE VALOR SE LE ATRIBUYE UNA PONDERACIÓN SUPERIOR...
+*   17.- CALIFICACIÓN DE LA DOCUMENTACIÓN GENERAL
+*   18.- APERTURA DE PROPOSICIONES Y PROPUESTA DE ADJUDICACIÓN
+    *   [[PRIMERA ALTERNATIVA: VARIOS CRITERIOS DE ADJUDICACIÓN, TODOS VALORABLES OBJETIVAMENTE ...
+    *   [[SEGUNDA ALTERNATIVA: SI EXISTEN CRITERIOS DE ADJUDICACIÓN, VALORABLES MEDIANTE UN JUICIO DE VALOR...
+    *   [TERCERA ALTERNATIVA: SI EXISTEN CRITERIOS DE ADJUDICACIÓN, VALORABLES MEDIANTE UN JUICIO DE VALOR, A LOS QUE SE ATRIBUYE...
+    *   [[CUARTA ALTERNATIVA: UN ÚNICO CRITERIO DE ADJUDICACIÓN RELACIONADO CON LOS COSTES...
+    *   [[CUANDO EMPRESAS EXTERNAS HUBIESEN INTERVENIDO EN LA PREPARACIÓN DEL CONTRATO...
+*   19.- ADJUDICACIÓN
+
+**III. FORMALIZACIÓN DEL CONTRATO**
+
+*   22.- FORMALIZACIÓN DEL CONTRATO
+    *   [[SI EL PROCEDIMIENTO ESTÁ SUJETO A RECURSO ESPECIAL EN MATERIA DE CONTRATACIÒN,...
+
+**IV. EJECUCIÓN DEL CONTRATO**
+
+*   23.- RESPONSABLE SUPERVISOR DE LOS SUMINISTROS OBJETO DEL CONTRATO
+*   24.- OBLIGACIONES DE LA PERSONA CONTRATISTA
+    *   [[SI EN LA CLAUSULA 5.4 SE HA OPTADO POR CONCRETAR LAS CONDICIONES DE SOLVENCIA EXIGIDAS,...
+    *   [ SI EL CONTRATO VA A EJECUTARSE EN ESPAÑA,...
+    *   [[SI, EXCEPCIONALMENTE Y POR RAZONES DE INTERÉS PUBLICO, SE CONSIDERÓ NECESARIO...
+*   25.- EJECUCIÓN DEL CONTRATO
+    *   [SI EL SUMINISTRO INCLUYE EI MANTENIMIENTO...
+    *   [[SI SE TRATA DE UN SUMINISTRO DE FABRICACIÓN ...
+*   26.- RECEPCION DEL SUMINISTRO
+    *   [[SI SE ESTIMA OPORTUNO...
+*   27.- GASTOS E IMPUESTOS POR CUENTA DE LA PERSONA CONTRATISTA
+*   28.- ABONOS AL CONTRATISTA
+    *   [EN LOS SUPUESTOS DE CONTRATOS DE TRACTO SUCESIVO...
+    *   [EN LOS SUPUESTOS DE ABONO DE PARTE DEL PRECIO EN ESPECIE...
+*   29.- INCUMPLIMIENTOS DEL CONTRATO
+*   30.- SUBCONTRATACIÓN
+
+**V. SUBCONTRATACIÓN, CESIÓN DEL CONTRATO Y SUCESIÓN EN LA PERSONA DEL CONTRATISTA**
+
+*   31.- CESIÓN DEL CONTRATO
+*   32.- SUCESIÓN EN LA PERSONA DEL CONTRATISTA
+
+**VI. MODIFICACIÓN DE CONTRATO**
+
+*   33.- MODIFICACIÓN DEL CONTRATO
+
+**VII. FINALIZACIÓN DEL CONTRATO**
+
+*   35.- RESOLUCIÓN Y EXTINCIÓN DEL CONTRATO
+*   36.- PLAZO DE GARANTÍA
+    *   [EN LOS SUPUESTOS EN QUE NO SE ESTABLEZCA PLAZO DE GARANTÍA,...
+*   37.- DEVOLUCIÓN O CANCELACIÓN DE LA GARANTÍA DEFINITIVA
+    *   [SI EN LA CLÁUSULA 36 NO SE HA ESTABLECIDO PLAZO DE GARANTÍA,...
+
+--------o0o--------
+
+**ΑΝΕΧΟΙ**
+
+*   MODELO DE PROPOSICIÓN ECONÓMICA
+
+**ΑΝΕΧΟ II**
+
+*   MODELO DE CONTRATO ADMINISTRATIVO DE SUMINISTROS
+
+**ΑΝΕΧΟ III**
+
+*   MODELO DE DECLARACIÓN RESPONSABLE
+
+Hopefully, this is a comprehensive outline of the template's structure. Let me know if you need me to clarify anything!
+
+----------
+Tiempo total de ejecución: 26.80 segundos
+--------------------------

@@ -1,4 +1,4 @@
-generales:
+ask:
   - contesta en castellano.
   - El contexto de proporcionado en la pregunta está separado por los tagas <context> y </context>.
   - Responder preguntas usando el contexto proporcionado, separando en parrafos los conceptos principal.
@@ -12,12 +12,10 @@ generales:
   - los lotes vienen enumerados, colocarlos en otden ascendente.
 
 askforSection:
-  - Si la pregunta es sobre un epigrafe, responder con el epigrafe y su descripcion.
-  - En caso de tener articulos, estos están separados por los tags <articles> y </articles>.
-  - Si la pregunta es sobre un lote, responder con el lote y su descripcion.
-  - Si la pregunta es sobre un presupuesto, responder con el presupuesto total y si hay lotes, añadir los presupuestos de cada lote.
-  - Si la pregunta es sobre solvencia, responder con los requisitos de solvencia economica y si hay cifra minima, añadirla.
-  - Si la pregunta es sobre el organo de contratacion, responder con el nombre del organo de contratacion y su descripcion.
+- Redacta la sección de manera formal y concisa, como corresponde a un pliego administrativo.
+- Si una parte de la información solicitada no se encuentra explícitamente en el "CONTEXTO DE LA LICITACIÓN", **NO inventes ni infieras datos**. En su lugar, indica de forma clara y profesional que esa información no está disponible en el contexto proporcionado.
+- Utiliza la información del contexto de la manera más literal posible para mantener la precisión.
+- Si en el contexto se mencionan lotes, asegurarse a tener el fraccionamiento por lotes en las  secciones donde sea necesario.
 
 suggestCPVList:
   - Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife".
@@ -25,8 +23,20 @@ suggestCPVList:
   - No añadir datos ni links que no sea ek nombre de la organizacion contratante.
 
 listaSecciones:
- - tiene que ser en formato lista, separa por puntos y seguidos cada seccion.
- - Usar el indice como referencia si la plantilla tiene uno.
+ - No quiero que sea una conversacion, quiero que me muestre la lista de secciones en la plantilla
+ - Si la estructura tiene apartadas y subapartados, mostrar la salida en formato apartado - subapartado 1, subapartado 2, etc.
+ - no cambies niguno titulo de seccion, ni subapartado, ni apartado.
+ - Usar el indice como referencia si el documento tiene uno.
+
+listaArticulos:
+ - Eres un asistente experto en análisis de documentos legales y normativos.
+ - Tu tarea es identificar y listar los artículos a los que se hace referencia en el siguiente apartado de una redaccion.
+ - Lee cuidadosamente el 'APARTADO TEXTO' proporcionado.
+ - Busca cualquier mencion explicita o implícita a 'articulo', 'art.', 'Art.', 'Articulo', seguida de un numero o rango (ej \"articulo 3" ,\"artículos 5 a 7\", \"art. 12\", \"Arts. 45 y 46\").
+ - Genera una lista numerada con cada referencia de articulo encontrada.
+ - Si un artículo se menciona varias veces, lístalo solo una vez.
+ - Si no se encuentra ninguna referencia a articulos, indica "Ningun articulo referenciado."
+ - El formato de salida es [elemento1, elemento2, elemento3, ...] y solo mostrar el numero.
 
 Presupuesto:
   - Si se pasan cifras se representan siempre con tablas donde la columna 1 es el epigrafe la columna dos el monto total, la segunda el impuesto y la tercera columna el monto sin impuestos.

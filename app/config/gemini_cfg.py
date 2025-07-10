@@ -1,5 +1,5 @@
 import os
-from google.generativeai import genai
+import google.generativeai as genai
 import time
 
 class FileGemini:

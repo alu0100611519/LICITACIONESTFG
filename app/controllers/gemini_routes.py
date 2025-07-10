@@ -35,7 +35,7 @@ def ask(peticion: Pregunta) -> Dict[str, str]:
     contexto = peticion.contexto
     pregunta = peticion.pregunta
     logger.info(f"Pregunta recibida: {pregunta} con contexto: {contexto}")
-    return gemini_redactor_use_case.generate_redaction(contexto, pregunta)
+    return gemini_redactor_use_case.ask(contexto, pregunta)
 
 @router.post("/askForSection"
             , response_model= str
