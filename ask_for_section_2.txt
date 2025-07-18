@@ -1,0 +1,226 @@
+esto es correcto <built-in method title of str object at 0x000002B1E127EBF0>
+----------
+Tiempo total de ejecución: 0.00 segundos
+--------------------------
+- titulo:Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral- id del contrato: E2023006355- Organismo Contratacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife- id del Organismo de contratacion: E2023006355- Tipo de contrato: 1- cpvlist: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+,
+----------
+Tiempo total de ejecución: 0.00 segundos
+--------------------------
+- titulo:Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral
+- id del contrato: E2023006355
+- Organismo Contratacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife
+- id del Organismo de contratacion: E2023006355
+- Tipo de contrato: 1
+- cpvlist: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
+,
+----------
+Tiempo total de ejecución: 0.00 segundos
+--------------------------
+- titulo:Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral
+- id del contrato: E2023006355
+- Organismo Contratacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife
+- id del Organismo de contratacion: E2023006355
+- Tipo de contrato: 1
+- cpvlist:  18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios,
+----------
+Tiempo total de ejecución: 0.00 segundos
+--------------------------
+- Redacta la secciÃ³n de manera formal y concisa, como corresponde a un pliego administrativo.
+- Si una parte de la informaciÃ³n solicitada no se encuentra explÃ­citamente en el "CONTEXTO DE LA LICITACIÃ“N", **NO inventes ni infieras datos**. En su lugar, indica de forma clara y profesional que esa informaciÃ³n no estÃ¡ disponible en el contexto proporcionado.
+- Utiliza la informaciÃ³n del contexto de la manera mÃ¡s literal posible para mantener la precisiÃ³n.
+- Si en el contexto se mencionan lotes, asegurarse a tener el fraccionamiento por lotes en las  secciones donde sea necesario.
+<context>- titulo:Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral
+- id del contrato: E2023006355
+- Organismo Contratacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife
+- id del Organismo de contratacion: E2023006355
+- Tipo de contrato: 1
+- cpvlist:  18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios,</context>
+<article></article>
+question: generame una redaccion
+----------
+Tiempo total de ejecución: 15.41 segundos
+--------------------------
+- Redacta la secciÃ³n de manera formal y concisa, como corresponde a un pliego administrativo.
+- Si una parte de la informaciÃ³n solicitada no se encuentra explÃ­citamente en el "CONTEXTO DE LA LICITACIÃ“N", **NO inventes ni infieras datos**. En su lugar, indica de forma clara y profesional que esa informaciÃ³n no estÃ¡ disponible en el contexto proporcionado.
+- Utiliza la informaciÃ³n del contexto de la manera mÃ¡s literal posible para mantener la precisiÃ³n.
+- Si en el contexto se mencionan lotes, asegurarse a tener el fraccionamiento por lotes en las  secciones donde sea necesario.
+<context>- titulo:Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral
+- id del contrato: E2023006355
+- Organismo Contratacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife
+- id del Organismo de contratacion: E2023006355
+- Tipo de contrato: 1
+- cpvlist:  18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios,</context>
+<article></article>
+question: generame una redaccion
+----------
+Tiempo total de ejecución: 25.84 segundos
+--------------------------
+- Redacta la secciÃ³n de manera formal y concisa, como corresponde a un pliego administrativo.
+- Si una parte de la informaciÃ³n solicitada no se encuentra explÃ­citamente en el "CONTEXTO DE LA LICITACIÃ“N", **NO inventes ni infieras datos**. En su lugar, indica de forma clara y profesional que esa informaciÃ³n no estÃ¡ disponible en el contexto proporcionado.
+- Utiliza la informaciÃ³n del contexto de la manera mÃ¡s literal posible para mantener la precisiÃ³n.
+- Si en el contexto se mencionan lotes, asegurarse a tener el fraccionamiento por lotes en las  secciones donde sea necesario.
+<context>- titulo:Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral
+- id del contrato: E2023006355
+- Organismo Contratacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife
+- id del Organismo de contratacion: E2023006355
+- Tipo de contrato: 1
+- cpvlist:  18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios,</context>
+<article><art>Artículo 16. Contrato de suministro.
+1. Son contratos de suministro los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.
+
+2. Sin perjuicio de lo dispuesto en la letra b) del apartado 3 de este artículo respecto de los contratos que tengan por objeto programas de ordenador, no tendrán la consideración de contrato de suministro los contratos relativos a propiedades incorporales o valores negociables.
+
+3. En todo caso, se considerarán contratos de suministro los siguientes:
+
+a) Aquellos en los que el empresario se obligue a entregar una pluralidad de bienes de forma sucesiva y por precio unitario sin que la cuantía total se defina con exactitud al tiempo de celebrar el contrato, por estar subordinadas las entregas a las necesidades del adquirente.
+
+b) Los que tengan por objeto la adquisición y el arrendamiento de equipos y sistemas de telecomunicaciones o para el tratamiento de la información, sus dispositivos y programas, y la cesión del derecho de uso de estos últimos, en cualquiera de sus modalidades de puesta a disposición, a excepción de los contratos de adquisición de programas de ordenador desarrollados a medida, que se considerarán contratos de servicios.
+
+c) Los de fabricación, por los que la cosa o cosas que hayan de ser entregadas por el empresario deban ser elaboradas con arreglo a características peculiares fijadas previamente por la entidad contratante, aun cuando esta se obligue a aportar, total o parcialmente, los materiales precisos.
+
+d) Los que tengan por objeto la adquisición de energía primaria o energía transformada.</art>
+<art>Artículo 28. Necesidad e idoneidad del contrato y eficiencia en la contratación.
+1. Las entidades del sector público no podrán celebrar otros contratos que aquellos que sean necesarios para el cumplimiento y realización de sus fines institucionales. A tal efecto, la naturaleza y extensión de las necesidades que pretenden cubrirse mediante el contrato proyectado, así como la idoneidad de su objeto y contenido para satisfacerlas, cuando se adjudique por un procedimiento abierto, restringido o negociado sin publicidad, deben ser determinadas con precisión, dejando constancia de ello en la documentación preparatoria, antes de iniciar el procedimiento encaminado a su adjudicación.
+
+2. Las entidades del sector público velarán por la eficiencia y el mantenimiento de los términos acordados en la ejecución de los procesos de contratación pública, favorecerán la agilización de trámites, valorarán la incorporación de consideraciones sociales, medioambientales y de innovación como aspectos positivos en los procedimientos de contratación pública y promoverán la participación de la pequeña y mediana empresa y el acceso sin coste a la información, en los términos previstos en la presente Ley.
+
+3. De acuerdo con los principios de necesidad, idoneidad y eficiencia establecidos en este artículo, las entidades del sector público podrán, previo cumplimiento de los requisitos legalmente establecidos, celebrar contratos derivados de proyectos promovidos por la iniciativa privada, en particular con respecto a los contratos de concesión de obras y concesión de servicios, incluidos en su modalidad de sociedad de economía mixta.
+
+4. Las entidades del sector público programarán la actividad de contratación pública, que desarrollarán en un ejercicio presupuestario o períodos plurianuales y darán a conocer su plan de contratación anticipadamente mediante un anuncio de información previa previsto en el artículo 134 que al menos recoja aquellos contratos que quedarán sujetos a una regulación armonizada.</art>
+<art>Artículo 99. Objeto del contrato.
+1. El objeto de los contratos del sector público deberá ser determinado. El mismo se podrá definir en atención a las necesidades o funcionalidades concretas que se pretenden satisfacer, sin cerrar el objeto del contrato a una solución única. En especial, se definirán de este modo en aquellos contratos en los que se estime que pueden incorporarse innovaciones tecnológicas, sociales o ambientales que mejoren la eficiencia y sostenibilidad de los bienes, obras o servicios que se contraten.
+
+2. No podrá fraccionarse un contrato con la finalidad de disminuir la cuantía del mismo y eludir así los requisitos de publicidad o los relativos al procedimiento de adjudicación que correspondan.
+
+3. Siempre que la naturaleza o el objeto del contrato lo permitan, deberá preverse la realización independiente de cada una de sus partes mediante su división en lotes, pudiéndose reservar lotes de conformidad con lo dispuesto en la disposición adicional cuarta.
+
+No obstante lo anterior, el órgano de contratación podrá no dividir en lotes el objeto del contrato cuando existan motivos válidos, que deberán justificarse debidamente en el expediente, salvo en los casos de contratos de concesión de obras.
+
+En todo caso se considerarán motivos válidos, a efectos de justificar la no división en lotes del objeto del contrato, los siguientes:
+
+a) El hecho de que la división en lotes del objeto del contrato conllevase el riesgo de restringir injustificadamente la competencia. A los efectos de aplicar este criterio, el órgano de contratación deberá solicitar informe previo a la autoridad de defensa de la competencia correspondiente para que se pronuncie sobre la apreciación de dicha circunstancia.
+
+b) El hecho de que, la realización independiente de las diversas prestaciones comprendidas en el objeto del contrato dificultara la correcta ejecución del mismo desde el punto de vista técnico; o bien que el riesgo para la correcta ejecución del contrato proceda de la naturaleza del objeto del mismo, al implicar la necesidad de coordinar la ejecución de las diferentes prestaciones, cuestión que podría verse imposibilitada por su división en lotes y ejecución por una pluralidad de contratistas diferentes. Ambos extremos deberán ser, en su caso, justificados debidamente en el expediente.
+
+4. Cuando el órgano de contratación proceda a la división en lotes del objeto del contrato, este podrá introducir las siguientes limitaciones, justificándolas debidamente en el expediente:
+
+a) Podrá limitar el número de lotes para los que un mismo candidato o licitador puede presentar oferta.
+
+b) También podrá limitar el número de lotes que pueden adjudicarse a cada licitador.
+
+Cuando el órgano de contratación considere oportuno introducir alguna de las dos limitaciones a que se refieren las letras a) y b) anteriores, así deberá indicarlo expresamente en el anuncio de licitación y en el pliego de cláusulas administrativas particulares.
+
+Cuando se introduzca la limitación a que se refiere la letra b) anterior, además deberán incluirse en los pliegos de cláusulas administrativas particulares los criterios o normas que se aplicarán cuando, como consecuencia de la aplicación de los criterios de adjudicación, un licitador pueda resultar adjudicatario de un número de lotes que exceda el máximo indicado en el anuncio y en el pliego. Estos criterios o normas en todo caso deberán ser objetivos y no discriminatorios.
+
+Salvo lo que disponga el pliego de cláusulas administrativas particulares, a efectos de las limitaciones previstas en las letras a) y b) anteriores, en las uniones de empresarios serán estas y no sus componentes las consideradas candidato o licitador.
+
+Podrá reservar alguno o algunos de los lotes para Centros Especiales de Empleo o para empresas de inserción, o un porcentaje mínimo de reserva de la ejecución de estos contratos en el marco de programas de empleo protegido, de conformidad con lo dispuesto en la Disposición adicional cuarta. Igualmente se podrán reservar lotes a favor de las entidades a que se refiere la Disposición adicional cuadragésima octava, en las condiciones establecidas en la citada disposición.
+
+5. Cuando el órgano de contratación hubiera decidido proceder a la división en lotes del objeto del contrato y, además, permitir que pueda adjudicarse más de un lote al mismo licitador, aquel podrá adjudicar a una oferta integradora, siempre y cuando se cumplan todos y cada uno de los requisitos siguientes:
+
+a) Que esta posibilidad se hubiere establecido en el pliego que rija el contrato y se recoja en el anuncio de licitación. Dicha previsión deberá concretar la combinación o combinaciones que se admitirá, en su caso, así como la solvencia y capacidad exigida en cada una de ellas.
+
+b) Que se trate de supuestos en que existan varios criterios de adjudicación.
+
+c) Que previamente se lleve a cabo una evaluación comparativa para determinar si las ofertas presentadas por un licitador concreto para una combinación particular de lotes cumpliría mejor, en conjunto, los criterios de adjudicación establecidos en el pliego con respecto a dichos lotes, que las ofertas presentadas para los lotes separados de que se trate, considerados aisladamente.
+
+d) Que los empresarios acrediten la solvencia económica, financiera y técnica correspondiente, o, en su caso, la clasificación, al conjunto de lotes por los que licite.
+
+6. Cuando se proceda a la división en lotes, las normas procedimentales y de publicidad que deben aplicarse en la adjudicación de cada lote o prestación diferenciada se determinarán en función del valor acumulado del conjunto, calculado según lo establecido en el artículo 101, salvo que se dé alguna de las excepciones a que se refieren los artículos 20.2, 21.2 y 22.2.
+
+7. En los contratos adjudicados por lotes, y salvo que se establezca otra previsión en el pliego que rija el contrato, cada lote constituirá un contrato, salvo en casos en que se presenten ofertas integradoras, en los que todas las ofertas constituirán un contrato.</art>
+<art>Artículo 123. Pliego de prescripciones técnicas generales.
+Previo informe de la Junta Consultiva de Contratación Pública del Estado, el Consejo de Ministros, a propuesta del Ministro correspondiente, podrá establecer los pliegos de prescripciones técnicas generales a que hayan de ajustarse la Administración General del Estado, sus Organismos Autónomos, Entidades Gestoras y Servicios Comunes de la Seguridad Social y demás entidades que gocen de la condición de Administraciones Públicas integrantes del sector público estatal.</art>
+<art>Artículo 124. Pliego de prescripciones técnicas particulares.
+El órgano de contratación aprobará con anterioridad a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación del contrato, o de no existir esta, antes de su adjudicación, los pliegos y documentos que contengan las prescripciones técnicas particulares que hayan de regir la realización de la prestación y definan sus calidades, sus condiciones sociales y ambientales, de conformidad con los requisitos que para cada contrato establece la presente Ley, y solo podrán ser modificados con posterioridad por error material, de hecho o aritmético. En otro caso, la modificación del pliego conllevará la retroacción de actuaciones.</art>
+</article>
+question: generame una redaccion
+----------
+Tiempo total de ejecución: 24.22 segundos
+--------------------------
+- Redacta la secciÃ³n de manera formal y concisa, como corresponde a un pliego administrativo.
+- Si una parte de la informaciÃ³n solicitada no se encuentra explÃ­citamente en el "CONTEXTO DE LA LICITACIÃ“N", **NO inventes ni infieras datos**. En su lugar, indica de forma clara y profesional que esa informaciÃ³n no estÃ¡ disponible en el contexto proporcionado.
+- Utiliza la informaciÃ³n del contexto de la manera mÃ¡s literal posible para mantener la precisiÃ³n.
+- Si en el contexto se mencionan lotes, asegurarse a tener el fraccionamiento por lotes en las  secciones donde sea necesario.
+<context>
+- titulo:Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral
+- id del contrato: E2023006355
+- Organismo Contratacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife
+- id del Organismo de contratacion: E2023006355
+- Tipo de contrato: 1
+´- cpvlist:  18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios,
+</context>
+<article><art>Artículo 16. Contrato de suministro.
+1. Son contratos de suministro los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.
+
+2. Sin perjuicio de lo dispuesto en la letra b) del apartado 3 de este artículo respecto de los contratos que tengan por objeto programas de ordenador, no tendrán la consideración de contrato de suministro los contratos relativos a propiedades incorporales o valores negociables.
+
+3. En todo caso, se considerarán contratos de suministro los siguientes:
+
+a) Aquellos en los que el empresario se obligue a entregar una pluralidad de bienes de forma sucesiva y por precio unitario sin que la cuantía total se defina con exactitud al tiempo de celebrar el contrato, por estar subordinadas las entregas a las necesidades del adquirente.
+
+b) Los que tengan por objeto la adquisición y el arrendamiento de equipos y sistemas de telecomunicaciones o para el tratamiento de la información, sus dispositivos y programas, y la cesión del derecho de uso de estos últimos, en cualquiera de sus modalidades de puesta a disposición, a excepción de los contratos de adquisición de programas de ordenador desarrollados a medida, que se considerarán contratos de servicios.
+
+c) Los de fabricación, por los que la cosa o cosas que hayan de ser entregadas por el empresario deban ser elaboradas con arreglo a características peculiares fijadas previamente por la entidad contratante, aun cuando esta se obligue a aportar, total o parcialmente, los materiales precisos.
+
+d) Los que tengan por objeto la adquisición de energía primaria o energía transformada.</art>
+<art>Artículo 28. Necesidad e idoneidad del contrato y eficiencia en la contratación.
+1. Las entidades del sector público no podrán celebrar otros contratos que aquellos que sean necesarios para el cumplimiento y realización de sus fines institucionales. A tal efecto, la naturaleza y extensión de las necesidades que pretenden cubrirse mediante el contrato proyectado, así como la idoneidad de su objeto y contenido para satisfacerlas, cuando se adjudique por un procedimiento abierto, restringido o negociado sin publicidad, deben ser determinadas con precisión, dejando constancia de ello en la documentación preparatoria, antes de iniciar el procedimiento encaminado a su adjudicación.
+
+2. Las entidades del sector público velarán por la eficiencia y el mantenimiento de los términos acordados en la ejecución de los procesos de contratación pública, favorecerán la agilización de trámites, valorarán la incorporación de consideraciones sociales, medioambientales y de innovación como aspectos positivos en los procedimientos de contratación pública y promoverán la participación de la pequeña y mediana empresa y el acceso sin coste a la información, en los términos previstos en la presente Ley.
+
+3. De acuerdo con los principios de necesidad, idoneidad y eficiencia establecidos en este artículo, las entidades del sector público podrán, previo cumplimiento de los requisitos legalmente establecidos, celebrar contratos derivados de proyectos promovidos por la iniciativa privada, en particular con respecto a los contratos de concesión de obras y concesión de servicios, incluidos en su modalidad de sociedad de economía mixta.
+
+4. Las entidades del sector público programarán la actividad de contratación pública, que desarrollarán en un ejercicio presupuestario o períodos plurianuales y darán a conocer su plan de contratación anticipadamente mediante un anuncio de información previa previsto en el artículo 134 que al menos recoja aquellos contratos que quedarán sujetos a una regulación armonizada.</art>
+<art>Artículo 99. Objeto del contrato.
+1. El objeto de los contratos del sector público deberá ser determinado. El mismo se podrá definir en atención a las necesidades o funcionalidades concretas que se pretenden satisfacer, sin cerrar el objeto del contrato a una solución única. En especial, se definirán de este modo en aquellos contratos en los que se estime que pueden incorporarse innovaciones tecnológicas, sociales o ambientales que mejoren la eficiencia y sostenibilidad de los bienes, obras o servicios que se contraten.
+
+2. No podrá fraccionarse un contrato con la finalidad de disminuir la cuantía del mismo y eludir así los requisitos de publicidad o los relativos al procedimiento de adjudicación que correspondan.
+
+3. Siempre que la naturaleza o el objeto del contrato lo permitan, deberá preverse la realización independiente de cada una de sus partes mediante su división en lotes, pudiéndose reservar lotes de conformidad con lo dispuesto en la disposición adicional cuarta.
+
+No obstante lo anterior, el órgano de contratación podrá no dividir en lotes el objeto del contrato cuando existan motivos válidos, que deberán justificarse debidamente en el expediente, salvo en los casos de contratos de concesión de obras.
+
+En todo caso se considerarán motivos válidos, a efectos de justificar la no división en lotes del objeto del contrato, los siguientes:
+
+a) El hecho de que la división en lotes del objeto del contrato conllevase el riesgo de restringir injustificadamente la competencia. A los efectos de aplicar este criterio, el órgano de contratación deberá solicitar informe previo a la autoridad de defensa de la competencia correspondiente para que se pronuncie sobre la apreciación de dicha circunstancia.
+
+b) El hecho de que, la realización independiente de las diversas prestaciones comprendidas en el objeto del contrato dificultara la correcta ejecución del mismo desde el punto de vista técnico; o bien que el riesgo para la correcta ejecución del contrato proceda de la naturaleza del objeto del mismo, al implicar la necesidad de coordinar la ejecución de las diferentes prestaciones, cuestión que podría verse imposibilitada por su división en lotes y ejecución por una pluralidad de contratistas diferentes. Ambos extremos deberán ser, en su caso, justificados debidamente en el expediente.
+
+4. Cuando el órgano de contratación proceda a la división en lotes del objeto del contrato, este podrá introducir las siguientes limitaciones, justificándolas debidamente en el expediente:
+
+a) Podrá limitar el número de lotes para los que un mismo candidato o licitador puede presentar oferta.
+
+b) También podrá limitar el número de lotes que pueden adjudicarse a cada licitador.
+
+Cuando el órgano de contratación considere oportuno introducir alguna de las dos limitaciones a que se refieren las letras a) y b) anteriores, así deberá indicarlo expresamente en el anuncio de licitación y en el pliego de cláusulas administrativas particulares.
+
+Cuando se introduzca la limitación a que se refiere la letra b) anterior, además deberán incluirse en los pliegos de cláusulas administrativas particulares los criterios o normas que se aplicarán cuando, como consecuencia de la aplicación de los criterios de adjudicación, un licitador pueda resultar adjudicatario de un número de lotes que exceda el máximo indicado en el anuncio y en el pliego. Estos criterios o normas en todo caso deberán ser objetivos y no discriminatorios.
+
+Salvo lo que disponga el pliego de cláusulas administrativas particulares, a efectos de las limitaciones previstas en las letras a) y b) anteriores, en las uniones de empresarios serán estas y no sus componentes las consideradas candidato o licitador.
+
+Podrá reservar alguno o algunos de los lotes para Centros Especiales de Empleo o para empresas de inserción, o un porcentaje mínimo de reserva de la ejecución de estos contratos en el marco de programas de empleo protegido, de conformidad con lo dispuesto en la Disposición adicional cuarta. Igualmente se podrán reservar lotes a favor de las entidades a que se refiere la Disposición adicional cuadragésima octava, en las condiciones establecidas en la citada disposición.
+
+5. Cuando el órgano de contratación hubiera decidido proceder a la división en lotes del objeto del contrato y, además, permitir que pueda adjudicarse más de un lote al mismo licitador, aquel podrá adjudicar a una oferta integradora, siempre y cuando se cumplan todos y cada uno de los requisitos siguientes:
+
+a) Que esta posibilidad se hubiere establecido en el pliego que rija el contrato y se recoja en el anuncio de licitación. Dicha previsión deberá concretar la combinación o combinaciones que se admitirá, en su caso, así como la solvencia y capacidad exigida en cada una de ellas.
+
+b) Que se trate de supuestos en que existan varios criterios de adjudicación.
+
+c) Que previamente se lleve a cabo una evaluación comparativa para determinar si las ofertas presentadas por un licitador concreto para una combinación particular de lotes cumpliría mejor, en conjunto, los criterios de adjudicación establecidos en el pliego con respecto a dichos lotes, que las ofertas presentadas para los lotes separados de que se trate, considerados aisladamente.
+
+d) Que los empresarios acrediten la solvencia económica, financiera y técnica correspondiente, o, en su caso, la clasificación, al conjunto de lotes por los que licite.
+
+6. Cuando se proceda a la división en lotes, las normas procedimentales y de publicidad que deben aplicarse en la adjudicación de cada lote o prestación diferenciada se determinarán en función del valor acumulado del conjunto, calculado según lo establecido en el artículo 101, salvo que se dé alguna de las excepciones a que se refieren los artículos 20.2, 21.2 y 22.2.
+
+7. En los contratos adjudicados por lotes, y salvo que se establezca otra previsión en el pliego que rija el contrato, cada lote constituirá un contrato, salvo en casos en que se presenten ofertas integradoras, en los que todas las ofertas constituirán un contrato.</art>
+<art>Artículo 123. Pliego de prescripciones técnicas generales.
+Previo informe de la Junta Consultiva de Contratación Pública del Estado, el Consejo de Ministros, a propuesta del Ministro correspondiente, podrá establecer los pliegos de prescripciones técnicas generales a que hayan de ajustarse la Administración General del Estado, sus Organismos Autónomos, Entidades Gestoras y Servicios Comunes de la Seguridad Social y demás entidades que gocen de la condición de Administraciones Públicas integrantes del sector público estatal.</art>
+<art>Artículo 124. Pliego de prescripciones técnicas particulares.
+El órgano de contratación aprobará con anterioridad a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación del contrato, o de no existir esta, antes de su adjudicación, los pliegos y documentos que contengan las prescripciones técnicas particulares que hayan de regir la realización de la prestación y definan sus calidades, sus condiciones sociales y ambientales, de conformidad con los requisitos que para cada contrato establece la presente Ley, y solo podrán ser modificados con posterioridad por error material, de hecho o aritmético. En otro caso, la modificación del pliego conllevará la retroacción de actuaciones.</art>
+</article>
+question: generame una redaccion
+----------
+Tiempo total de ejecución: 15.03 segundos
+--------------------------

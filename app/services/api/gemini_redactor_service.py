@@ -1,6 +1,7 @@
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 import os
+import json
 import yaml
 from app.config.gemini_cfg import GeminiConfig
 from app.controllers.dto.ParametrosLicitacion_dto import ParametrosLicitacionDTO
@@ -8,7 +9,7 @@ from app.services.api.user_context_service import UserContextService
 
 #Cargamos las variables de entorno
 
-
+OUTPUTH_TRAINING_PATH = "ask_for_section.txt"
 
 class GeminiRedactorService:
     def __init__(self):
@@ -51,7 +52,7 @@ class GeminiRedactorService:
         """
         Toma un artículo específico de la plantilla.
         """
-        artcile_path = os.getenv("ARTICLE_PATH", "resources/articles")
+        artcile_path = os.getenv("ARTICLE_PATH", "resources/articles/")
         contenido_total = ""
         # Aquí deberías implementar la lógica para obtener el artículo de la plantilla.
         # Por ahora, devolvemos un texto de ejemplo.
@@ -60,8 +61,7 @@ class GeminiRedactorService:
             try:
                 with open(ruta_archivo, "r", encoding="utf-8") as archivo:
                     contenido = archivo.read()
-                    contenido_total += f"{contenido}\n"
-                    contenido_total += "<space>\n"
+                    contenido_total += f"<art>{contenido}</art>\n"
             except FileNotFoundError:
                 print(f"Archivo no encontrado: {ruta_archivo}")
             except Exception as e:
@@ -93,15 +93,14 @@ class GeminiRedactorService:
         )
         return response.text.strip()  # Elimina espacios en blanco al principio y al final de la respuesta
         
-    def ask_template(self, context : ParametrosLicitacionDTO , question, section):
+    def ask_template(self, context : ParametrosLicitacionDTO , section):
         """
         Esta funcion es un ejemplo de como se puede usar la plantilla para generar un texto
         """
 
         context_parses = self.user_context_service.build_paramestros_licitacion_context( context)
 
-        return context_parses
-        prompt_usuario = ""
+     
 
         # obtenemos el modelo desde el self 
         model = self.model
@@ -112,7 +111,11 @@ class GeminiRedactorService:
         # extraemos la lista de articulos 
         articles_list = self.listar_articulos_seccion(section)
 
-        file_to_use = GeminiConfig.upload_file(pdf_path)
+        prompt_usuario = self.build_prompt(f"generame una redaccion del apartado {section}", "askforSection", context_parses, json.loads(articles_list))
+
+        file_to_use = GeminiConfig.upload_file(self,pdf_path)
+
+        print(f"\n-----\n{prompt_usuario}\n-----\n")
 
         # Prepara el contenido de la solicitud
         # El tipo MIME para PDF es 'application/pdf'
@@ -131,6 +134,9 @@ class GeminiRedactorService:
         genai.delete_file(file_to_use.name) # Usa uploaded_file.name, no uploaded_file.id
         print(f"Archivo {file_to_use.name} eliminado de la Files API.")
 
+        with open(OUTPUTH_TRAINING_PATH, "w", encoding="utf-8") as file:
+            file.write(f"{response.text}\n----------\n")
+
         return response.text
     
     def listar_secciones(self):
@@ -138,11 +144,12 @@ class GeminiRedactorService:
         # obtenemos el modelo desde el self 
         model = self.model
         # suponemos que tenemos una carga de plantilla ( realizar en otro servicio).
+        print(f"\n-----\n{prompt_usuario}\n-----\n")
         pdf_path = os.path.join(os.path.join("resources/template/suministro_abierto.pdf"))
 
         file_to_use = GeminiConfig.upload_file(self,pdf_path)
 
-        print(f"\n-----\n{prompt_usuario}\n-----\n")
+
 
         contents = [
             {
@@ -173,7 +180,7 @@ class GeminiRedactorService:
 
         file_to_use = GeminiConfig.upload_file(self,pdf_path)
 
-        print(f"\n-----\n{prompt_usuario}\n-----\n")
+        ##print(f"\n-----\n{prompt_usuario}\n-----\n")
 
         contents = [
             {
@@ -187,9 +194,21 @@ class GeminiRedactorService:
         # Genera la respuesta
         response = model.generate_content(contents)
 
-        genai.delete_file(file_to_use.name)
-        
+        genai.delete_file(file_to_use.name)    
+        print(f"\n-----\n{response.text}\n-----\n")
         return response.text
+    
+
+    def recomendar_cpv(self, titulo):
+        model = self.model
+        prompt_usuario = self.build_prompt(f"Recomiendame una lista de cpv para este objeto de contrato: {titulo}","RecomendarCPV")
+        try:
+            response = model.generate_content(prompt_usuario)
+            return response.text
+        except Exception as e:
+            print("error RecomendarCPV")
+
+
             
             
 

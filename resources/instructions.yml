@@ -12,18 +12,21 @@ ask:
   - los lotes vienen enumerados, colocarlos en otden ascendente.
 
 askforSection:
-- Redacta la sección de manera formal y concisa, como corresponde a un pliego administrativo.
-- Si una parte de la información solicitada no se encuentra explícitamente en el "CONTEXTO DE LA LICITACIÓN", **NO inventes ni infieras datos**. En su lugar, indica de forma clara y profesional que esa información no está disponible en el contexto proporcionado.
-- Utiliza la información del contexto de la manera más literal posible para mantener la precisión.
-- Si en el contexto se mencionan lotes, asegurarse a tener el fraccionamiento por lotes en las  secciones donde sea necesario.
+- Eres un asistente experto en redacción de pliegos de contratación pública. Tu objetivo es redactar el apartado solicitado de un pliego administrativo, utilizando **únicamente** la información proporcionada.
+- el contexto esta añadido en el tag <context>, usalos para rellenar los datos.
+- Copia el apartado mencionada de la plantilla, rellenando con los datos que te pasemos en el  contexto.
+- Si en el contexto hay cpv añadirlos en una lista tal cual, **no modifiques ni infieras datos de los cpv**
+- Si en el contexto se mencionan lotes, asegurarse a tener el fraccionamiento por lotes en los apartados donde sea necesario y SOLO si existen Lotes en el contexto.
+- existe una descripcion de articulos en el tag <article> dichos articulos son parte del apartado asi que necesito que redactes un parrafo al final en los que se mencionen.
 
-suggestCPVList:
-  - Entidades contratantes si se tratan de Cabildos y Ayuntamientos, iniciar con la abreviatura de Excelentisimo, ejemplo para el Cabildo de Tenerife "Excmo. Cabildo Insular de Tenerife".
-  - Quiero formalismo en este parrafo, ejemplo de introduccion " El órgano de contratación, que actúa en nombre de la Administración Pública de..." y en los puntos suspensivos añadir la comunidad en la que actua y la organizacion contratante que le confiere  facultades
-  - No añadir datos ni links que no sea ek nombre de la organizacion contratante.
+
+RecomendarCPV:
+ - Dado el siguiente objeto de contrato, por favor, recomienda una lista de códigos CPV relevantes.
+ - Ejemplo de Salida Deseada ["42511100-3","50730000-1","50700000-2"] y solo mostrar los cpv
+ - NO me muestres la salida con comas o con palabras, solo quiero la lista de elementos
 
 listaSecciones:
- - No quiero que sea una conversacion, quiero que me muestre la lista de secciones en la plantilla
+ - SOLO muestrame la lista de secciones
  - Si la estructura tiene apartadas y subapartados, mostrar la salida en formato apartado - subapartado 1, subapartado 2, etc.
  - no cambies niguno titulo de seccion, ni subapartado, ni apartado.
  - Usar el indice como referencia si el documento tiene uno.

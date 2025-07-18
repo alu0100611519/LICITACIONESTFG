@@ -10,9 +10,6 @@ class UserContextService:
     Service to manage user context.
     """
     def build_paramestros_licitacion_context(self, context: ParametrosLicitacionDTO):
-        """
-        Load the context from a JSON file.
-        """
         result = "";
 
         if context.title is not None:
@@ -24,11 +21,10 @@ class UserContextService:
         if context.id_plataforma is not None:
             result += f"- id del Organismo de contratacion: {context.id_plataforma}\n"
         if context.tipo is not None:
-            result += f"- Tipo de contrato: {context.tipo}\n"
+            result += f"- Tipo de contrato: {context.tipo}"
         if context.cpvList is not None:
-            result += self.build_cpv_list(context.cpvList)
+            result += f"{self.build_cpv_list(context.cpvList)}\n"
         
-
         return result
     
     def build_cpv_list(self, cpvList):

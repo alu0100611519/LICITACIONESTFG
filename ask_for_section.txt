@@ -1,28 +1,11 @@
-esto es correcto <built-in method title of str object at 0x000002B1E127EBF0>
+**1.- OBJETO DEL CONTRATO** (arts. 16, 28, 99 y 123, 124 y D.A. Cuarta de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero, en adelante LCSP).
+
+1.1.- El objeto del contrato E2023006355 será el suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral para el Consejo de Gobierno Insular del Cabildo Insular de Tenerife.
+
+La ejecución del objeto del contrato deberá adecuarse a las siguientes prescripciones técnicas: [...] [a las prescripciones técnicas anexas que tienen carácter contractual ]
+
+Dicho objeto corresponde al código 18100000-0 de la nomenclatura Vocabulario Común de Contratos (CPV) de la Comisión Europea.
+
+El presente contrato de suministro tiene por objeto la adquisición, arrendamiento financiero o arrendamiento, con o sin opción de compra, de bienes muebles, tal como se define en el artículo 16 de la Ley de Contratos del Sector Público. El contrato se regirá por los principios de necesidad, idoneidad y eficiencia, tal como establecen los artículos 28 y 99 de la LCSP.
+
 ----------
-Tiempo total de ejecución: 0.00 segundos
---------------------------
-- titulo:Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral- id del contrato: E2023006355- Organismo Contratacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife- id del Organismo de contratacion: E2023006355- Tipo de contrato: 1- cpvlist: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
-,
-----------
-Tiempo total de ejecución: 0.00 segundos
---------------------------
-- titulo:Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral
-- id del contrato: E2023006355
-- Organismo Contratacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife
-- id del Organismo de contratacion: E2023006355
-- Tipo de contrato: 1
-- cpvlist: - 18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios
-,
-----------
-Tiempo total de ejecución: 0.00 segundos
---------------------------
-- titulo:Suministro de vestuario y complementos diversos con destino al personal de las distintas Áreas del CIT, incluyendo innovaciones tecnológicas en su fabricación de modo que permita incluir parte del material reciclado en su fabricación/ser reciclados una vez terminada su vida útil, fomentando la economía circular y contratación de personal con dificultades de acceso al mercado laboral
-- id del contrato: E2023006355
-- Organismo Contratacion: Consejo de Gobierno Insular del Cabildo Insular de Tenerife
-- id del Organismo de contratacion: E2023006355
-- Tipo de contrato: 1
-- cpvlist:  18100000-0: Ropa de trabajo, ropa de trabajo especial y accesorios,
-----------
-Tiempo total de ejecución: 0.00 segundos
---------------------------

@@ -11,3 +11,4 @@ python-dotenv
 lxml
 PyPDF2
 google.generativeai
+python-multipart

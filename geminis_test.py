@@ -44,9 +44,7 @@ if __name__ == "__main__":
         Lotes=[lote1,lote2])
 
     start_time = time.perf_counter()
-    result = geminis_redactor_service.ask_template(params,"generame una redaccion", "OBJETO DEL CONTRATO")
+    result = geminis_redactor_service.ask_template(params, "OBJETO DEL CONTRATO")
     end_time = time.perf_counter()
     timpo_total = end_time - start_time
     
-    with open(OUTPUTH_TRAINING_PATH, modo, encoding="utf-8") as file:
-        file.write(f"{result}\n----------\nTiempo total de ejecución: {timpo_total:.2f} segundos\n--------------------------\n")

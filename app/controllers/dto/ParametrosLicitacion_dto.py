@@ -15,11 +15,7 @@ class LoteDTO(BaseModel):
 
 
 
-# --- DTO para los parámetros principales de la licitación ---
 class ParametrosLicitacionDTO(BaseModel):
-    """
-    Contiene todos los parámetros principales de la licitación.
-    """
     title: str = Field(None, description="Título completo del contrato de la licitación")
     contract_folder_id: str = Field(None, description="ID de la carpeta del contrato")
     nombreContratante: str = Field(None, description="Nombre de la entidad contratante")
